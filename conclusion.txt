@@ -1,0 +1,3 @@
+losted_passengers.csv - losted passengers data
+
+There are no obvious relationships in the characteristics of the missing passengers

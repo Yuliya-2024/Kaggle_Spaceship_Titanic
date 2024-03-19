@@ -1,0 +1,1217 @@
+Passenger_trav_group,PassengerId_in_group,HomePlanet,CryoSleep,Deck_num,Room_num,Bord_side,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,First_name,Last_name,Transported_model,Transported_true
+13,1,Earth,True,G,3,right,TRAPPIST-1e,27,False,0,0,0,0,0,Nelly,Carsoning,True,False
+32,1,Earth,True,D,0,right,TRAPPIST-1e,20,False,0,0,0,0,0,Acrabi,Pringry,True,False
+42,1,Mars,True,E,0,left,TRAPPIST-1e,46,False,0,0,0,0,0,Hamus,Frité,True,False
+47,1,Earth,True,B,0,right,TRAPPIST-1e,44,False,0,0,0,0,0,Winonon,Prucerod,True,False
+59,1,Earth,True,E,2,left,TRAPPIST-1e,36,False,0,0,0,0,0,Janne,Carvis,True,False
+65,1,Earth,True,G,9,right,TRAPPIST-1e,26,False,0,0,0,0,0,Monald,Rushorney,True,False
+79,1,Earth,True,G,12,right,TRAPPIST-1e,48,False,0,0,0,0,0,Verney,Sullones,True,False
+89,1,Mars,True,F,19,right,TRAPPIST-1e,24,False,0,0,0,0,0,Ors,Cha,True,False
+94,1,Earth,True,G,17,right,TRAPPIST-1e,6,False,0,0,0,0,0,Jaye,Santantines,True,False
+106,1,Earth,True,F,26,right,TRAPPIST-1e,17,False,0,0,0,0,0,Therly,Puckenton,True,False
+137,1,Earth,True,G,24,right,TRAPPIST-1e,29,False,0,0,0,0,0,Jilley,Harry,True,False
+142,1,Mars,True,F,30,right,TRAPPIST-1e,2,False,0,0,0,0,0,Oakes,Buth,True,False
+150,1,Earth,True,B,7,left,TRAPPIST-1e,36,False,0,0,0,0,0,Menkaa,Slowatic,True,False
+150,2,Earth,True,B,7,left,TRAPPIST-1e,56,False,0,0,0,0,0,Wasalm,Slowatic,True,False
+154,1,Earth,True,G,21,left,PSO J318,39,False,0,0,0,0,0,Dorah,Brenney,True,False
+156,1,Mars,True,F,34,left,TRAPPIST-1e,69,False,0,0,0,0,0,Tures,Upead,True,False
+168,1,Earth,True,C,7,right,TRAPPIST-1e,29,False,0,0,0,0,0,Saxinon,Oradly,True,False
+175,1,Earth,True,G,25,left,TRAPPIST-1e,0,False,0,0,0,0,0,Celis,Benney,True,False
+175,3,Earth,True,G,25,left,TRAPPIST-1e,3,False,0,0,0,0,0,Leence,Benney,True,False
+175,4,Earth,True,G,25,left,TRAPPIST-1e,27,False,0,0,0,0,0,Eulah,Benney,True,False
+194,1,Earth,True,C,4,left,TRAPPIST-1e,14,False,0,0,0,0,0,Ruchbia,Extraly,True,False
+208,1,Earth,True,G,33,left,TRAPPIST-1e,40,False,44,0,565,0,18,Mael,Vales,True,False
+215,1,Earth,True,G,34,left,TRAPPIST-1e,23,False,0,0,0,0,0,Jaimez,Waterson,True,False
+228,1,Earth,True,B,4,right,TRAPPIST-1e,35,False,0,0,0,0,0,Azhasim,Dompul,True,False
+230,1,Earth,True,F,49,left,PSO J318,29,False,0,0,0,0,0,Daisya,Burksson,True,False
+235,1,Earth,True,G,40,left,TRAPPIST-1e,25,False,0,0,0,0,0,Monard,Hickerson,True,False
+236,1,Mars,True,F,51,left,TRAPPIST-1e,36,False,0,0,0,0,0,Poloos,Nutte,True,False
+264,2,Earth,True,B,5,right,TRAPPIST-1e,38,False,0,0,0,0,0,Okulus,Anindery,True,False
+273,2,Mars,True,F,60,left,TRAPPIST-1e,20,False,0,0,0,0,0,Triesh,Ste,True,False
+274,2,Mars,True,E,17,right,TRAPPIST-1e,26,False,0,0,0,0,400,Bats,Melto,True,False
+276,2,Earth,True,B,6,right,TRAPPIST-1e,25,False,0,0,0,0,0,Zedark,Pabler,True,False
+308,1,Earth,True,G,48,left,PSO J318,12,False,250,0,0,0,0,unknown,unknown,True,False
+312,1,Earth,True,G,49,left,TRAPPIST-1e,22,False,0,0,0,0,0,Adrie,Hoffergess,True,False
+318,1,Earth,True,G,52,left,PSO J318,24,False,0,0,0,0,0,Robyna,Solon,True,False
+332,1,Earth,True,G,55,left,TRAPPIST-1e,20,False,0,0,0,0,0,Shany,Pooles,True,False
+342,2,Earth,True,G,58,left,PSO J318,43,False,0,0,0,0,0,Blanie,Headardyer,True,False
+344,1,Earth,True,C,8,left,TRAPPIST-1e,32,False,0,0,0,0,0,Zibah,Stranbeate,True,False
+351,1,Mars,True,F,77,left,TRAPPIST-1e,41,False,0,0,0,0,0,Macon,Fache,True,False
+353,1,Earth,True,G,61,left,TRAPPIST-1e,2,False,0,0,0,0,0,Arla,Jacostanley,True,False
+353,2,Earth,True,G,61,left,PSO J318,21,False,0,0,0,0,0,Delley,Jacostanley,True,False
+363,3,Earth,True,E,22,right,TRAPPIST-1e,5,False,0,0,0,0,0,Jenn,Fowlesterez,True,False
+366,1,Earth,True,G,52,right,TRAPPIST-1e,24,False,0,0,0,0,0,unknown,unknown,True,False
+390,1,Earth,True,G,67,left,TRAPPIST-1e,61,False,0,0,0,0,0,Anda,Mejiaddox,True,False
+399,1,Earth,True,G,68,left,TRAPPIST-1e,18,False,0,0,0,0,0,Rayle,Lewinton,True,False
+400,1,Earth,True,C,10,left,TRAPPIST-1e,20,False,0,0,0,0,0,Azaleha,Aroodint,True,False
+419,2,Earth,True,G,70,left,PSO J318,15,False,0,0,0,0,0,unknown,unknown,True,False
+419,3,Earth,True,G,70,left,TRAPPIST-1e,35,False,0,0,0,0,0,Erman,Monsoney,True,False
+464,1,Earth,True,G,68,right,TRAPPIST-1e,28,False,0,0,0,0,400,Dwindy,Emenez,True,False
+467,1,Mars,True,D,17,left,TRAPPIST-1e,22,False,0,0,0,0,0,Gonut,Keen,True,False
+467,2,Mars,True,D,17,left,TRAPPIST-1e,69,False,0,0,0,0,0,Cings,Keen,True,False
+483,1,Earth,True,D,18,left,TRAPPIST-1e,28,False,0,0,0,0,0,Caphact,Flutorly,True,False
+489,1,Mars,True,E,31,left,TRAPPIST-1e,33,False,0,0,0,0,0,Fal,Knike,True,False
+489,2,Mars,True,F,105,left,TRAPPIST-1e,18,False,0,0,0,0,0,Rios,Knike,True,False
+493,1,Earth,True,G,72,right,TRAPPIST-1e,46,False,0,0,0,0,0,unknown,unknown,True,False
+495,1,Earth,True,G,73,right,TRAPPIST-1e,4,False,0,0,0,0,0,Nelly,Richan,True,False
+495,2,Earth,True,G,73,right,TRAPPIST-1e,0,False,0,0,0,0,0,Monard,Richan,True,False
+495,3,Earth,True,G,73,right,TRAPPIST-1e,12,False,0,0,0,0,0,Etha,Richan,True,False
+496,2,Earth,True,G,77,left,PSO J318,14,False,0,0,0,0,0,Ianna,Kennetty,True,False
+497,1,Mars,True,F,107,left,TRAPPIST-1e,27,False,0,0,0,0,0,Muebix,Mepie,True,False
+514,1,Earth,True,G,79,left,TRAPPIST-1e,17,False,0,0,0,0,0,Erie,Tersony,True,False
+526,1,Earth,True,G,80,left,TRAPPIST-1e,34,False,0,0,0,0,0,Elody,Daughessey,True,False
+532,2,Earth,True,B,22,right,TRAPPIST-1e,17,False,0,0,0,0,0,Rasalm,Groughty,True,False
+541,1,Earth,True,B,23,right,TRAPPIST-1e,36,False,0,0,0,0,0,Jabbab,Dident,True,False
+543,1,Earth,True,G,85,left,TRAPPIST-1e,36,False,0,0,0,0,0,Yolas,Pooley,True,False
+557,1,Mars,True,F,113,left,TRAPPIST-1e,45,False,0,0,0,0,0,Caks,Spie,True,False
+557,2,Mars,True,F,113,left,TRAPPIST-1e,21,False,0,0,0,0,0,Mall,Spie,True,False
+562,2,Mars,True,F,104,right,TRAPPIST-1e,13,False,0,0,0,0,0,Sex,Shcad,True,False
+578,1,Earth,True,G,84,right,TRAPPIST-1e,17,False,0,0,0,0,0,Dont,Hoppers,True,False
+578,2,Earth,True,G,84,right,TRAPPIST-1e,44,False,0,0,0,0,0,Nance,Hoppers,True,False
+584,1,Earth,True,G,88,left,TRAPPIST-1e,21,False,0,0,0,0,0,Charry,Hortis,True,False
+595,1,Earth,True,G,88,right,TRAPPIST-1e,40,False,0,0,0,0,0,Royce,Yatters,True,False
+606,1,Earth,True,G,93,left,PSO J318,37,False,0,0,0,0,0,Elly,Masquez,True,False
+613,1,Earth,True,B,26,left,TRAPPIST-1e,53,False,0,0,0,0,0,Auvan,Stubtlarle,True,False
+613,2,Earth,True,B,26,left,TRAPPIST-1e,42,False,0,0,0,0,0,Tetra,Stubtlarle,True,False
+625,2,Mars,True,F,111,right,TRAPPIST-1e,42,False,0,0,0,0,0,unknown,unknown,True,False
+626,2,Earth,True,B,24,right,TRAPPIST-1e,22,False,0,0,0,0,0,Dyonon,Emoted,True,False
+632,3,Earth,True,G,97,left,TRAPPIST-1e,18,False,0,0,0,0,0,Terald,Hebernandry,True,False
+640,1,Earth,True,D,26,left,TRAPPIST-1e,38,False,0,0,0,0,0,Suhelik,Dedinder,True,False
+651,1,Earth,True,D,28,left,TRAPPIST-1e,25,False,0,0,0,0,0,Terons,Lendly,True,False
+652,1,Earth,True,G,96,right,PSO J318,3,False,0,0,0,0,0,Natald,Ashipson,True,False
+666,1,Earth,True,G,100,right,TRAPPIST-1e,30,False,0,0,0,0,400,Willy,Antoshipson,True,False
+681,1,Earth,True,G,106,left,TRAPPIST-1e,21,False,0,0,0,0,0,Stanya,Pacerty,True,False
+694,1,Earth,True,G,105,right,PSO J318,41,False,0,0,0,0,0,Stelly,Hurchrisong,True,False
+708,1,Earth,True,B,29,left,TRAPPIST-1e,16,False,0,0,0,0,0,Diph,Obnoftle,True,False
+717,1,Earth,True,B,31,left,TRAPPIST-1e,24,False,0,0,0,0,0,Jihoton,Panspic,True,False
+717,3,Earth,True,B,31,left,TRAPPIST-1e,48,False,0,0,0,0,0,Nesch,Panspic,True,False
+717,4,Earth,True,B,31,left,TRAPPIST-1e,29,False,0,0,0,0,0,Hekab,Bewarsecal,True,False
+720,1,Mars,True,F,129,right,TRAPPIST-1e,20,False,0,0,0,0,0,Cings,Hotty,True,False
+725,1,Earth,True,G,110,left,PSO J318,48,False,0,0,0,0,0,Joycey,Hewson,True,False
+742,2,Mars,True,F,138,right,TRAPPIST-1e,25,False,0,0,0,0,0,Frunk,Min,True,False
+748,1,Mars,True,F,139,right,TRAPPIST-1e,33,False,0,0,0,0,0,Oss,Cotte,True,False
+749,1,Mars,True,F,159,left,TRAPPIST-1e,19,False,0,0,0,0,0,Widin,Kashe,True,False
+751,1,Mars,True,F,141,right,TRAPPIST-1e,21,False,0,0,230,0,0,Ray,Mity,True,False
+752,1,Earth,True,G,113,right,TRAPPIST-1e,23,False,0,0,0,0,0,Annon,Hultz,True,False
+759,3,Earth,True,C,25,left,TRAPPIST-1e,36,False,0,0,0,0,0,Aston,Tabloory,True,False
+763,1,Earth,True,C,30,right,TRAPPIST-1e,29,False,0,0,0,0,0,Anchium,Poustive,True,False
+766,1,Mars,True,E,55,right,TRAPPIST-1e,34,False,0,0,0,0,0,Walmon,Derry,True,False
+775,2,Earth,True,C,31,right,TRAPPIST-1e,1,False,0,0,0,0,0,Altardr,Trameterty,True,False
+775,3,Earth,True,C,31,right,TRAPPIST-1e,18,False,0,0,0,0,0,Syrmion,Trameterty,True,False
+778,1,Earth,True,C,32,right,TRAPPIST-1e,41,False,0,0,0,0,0,Sterfik,Ousious,True,False
+780,1,Mars,True,D,27,right,TRAPPIST-1e,50,False,0,0,0,500,0,Ritars,Apple,True,False
+792,1,Earth,True,G,116,left,PSO J318,17,False,0,0,0,0,0,Elany,Trankliney,True,False
+801,1,Mars,True,F,167,left,TRAPPIST-1e,19,False,0,0,0,0,0,Lift,Sto,True,False
+812,1,Mars,True,E,58,right,TRAPPIST-1e,38,False,0,0,0,0,0,Panch,Pamca,True,False
+832,1,Earth,True,G,122,left,PSO J318,19,False,0,0,0,0,0,Diandi,Folemonley,True,False
+837,1,Earth,True,D,34,left,TRAPPIST-1e,28,False,0,0,0,0,0,Suhelik,Queldry,True,False
+838,1,Mars,True,E,46,left,TRAPPIST-1e,22,False,0,0,0,0,0,Flyros,Concy,True,False
+842,1,Mars,True,E,47,left,TRAPPIST-1e,25,False,0,0,0,0,0,Pars,Hotte,True,False
+843,1,Earth,True,G,124,left,PSO J318,43,False,0,0,0,0,0,Hilley,Cabrewsond,True,False
+844,1,Mars,True,E,61,right,TRAPPIST-1e,54,False,0,0,0,0,0,Burs,Butte,True,False
+852,1,Earth,True,D,29,right,TRAPPIST-1e,69,False,0,0,0,0,0,Asellum,Reewerpic,True,False
+854,1,Earth,True,G,126,right,PSO J318,24,False,0,0,0,0,0,Alvia,Kimons,True,False
+858,2,Mars,True,F,178,left,TRAPPIST-1e,23,False,0,0,0,0,200,Hion,Mad,True,False
+862,1,Earth,True,G,125,left,TRAPPIST-1e,20,False,0,0,0,0,0,Perryl,Burryerson,True,False
+864,2,Mars,True,F,162,right,TRAPPIST-1e,43,False,0,0,0,0,0,Dontch,Trad,True,False
+864,3,Mars,True,F,162,right,TRAPPIST-1e,9,False,0,0,0,0,0,Feries,Erle,True,False
+866,1,Mars,True,F,179,left,TRAPPIST-1e,32,False,0,0,0,0,0,Puffes,Hapie,True,False
+880,1,Mars,True,E,50,left,PSO J318,14,False,0,0,0,0,0,Lopedo,Pepie,True,False
+880,2,Mars,True,E,50,left,TRAPPIST-1e,45,False,0,0,0,0,400,Want,Pepie,True,False
+886,2,Mars,True,F,182,left,TRAPPIST-1e,52,False,0,0,0,0,0,Casps,Bota,True,False
+886,3,Mars,True,F,182,left,TRAPPIST-1e,5,False,0,0,0,0,0,Koks,Bota,True,False
+892,1,Earth,True,C,36,right,TRAPPIST-1e,17,False,0,0,0,0,0,Tarfik,Poilsive,True,False
+897,2,Earth,True,B,36,right,TRAPPIST-1e,28,False,0,0,0,0,0,Azhab,Exhaft,True,False
+900,1,Earth,True,G,131,left,PSO J318,26,False,0,0,0,0,0,Yolana,Mirezavis,True,False
+908,1,Earth,True,G,136,right,TRAPPIST-1e,7,False,0,0,0,0,0,Timmie,Bookson,True,False
+909,2,Mars,True,F,169,right,TRAPPIST-1e,3,False,0,0,0,0,0,Fispot,Wala,True,False
+909,3,Mars,True,F,169,right,TRAPPIST-1e,26,False,0,0,0,0,0,Cank,Wala,True,False
+937,1,Mars,True,E,52,left,TRAPPIST-1e,18,False,0,0,0,0,0,Crisp,Quith,True,False
+943,1,Mars,True,F,197,left,TRAPPIST-1e,45,False,0,0,0,0,0,Jifes,Banie,True,False
+943,2,Mars,True,F,197,left,TRAPPIST-1e,5,False,0,0,0,0,0,Gops,Banie,True,False
+950,1,Mars,True,F,174,right,TRAPPIST-1e,23,False,0,0,0,0,0,Anakes,Queke,True,False
+963,1,Earth,True,D,34,right,TRAPPIST-1e,42,False,0,0,0,0,0,Izares,Syncepul,True,False
+977,1,Earth,True,G,147,right,PSO J318,19,False,0,0,0,0,0,Samany,Alest,True,False
+981,2,Earth,True,G,148,right,TRAPPIST-1e,63,False,0,0,0,0,0,Jeane,Parsoney,True,False
+999,1,Earth,True,G,147,left,PSO J318,21,False,0,0,0,0,0,Vanley,Gambs,True,False
+1010,1,Mars,True,F,188,right,TRAPPIST-1e,52,False,0,0,0,0,0,Croos,One,True,False
+1016,1,Earth,False,A,12,right,Cancri e,32,False,0,2983,0,6282,74,Grafi,Presectle,True,False
+1023,1,Mars,True,F,193,right,TRAPPIST-1e,37,False,0,0,0,0,0,Eet,Vlake,True,False
+1028,1,Earth,True,G,160,right,PSO J318,35,False,0,0,0,0,0,Glene,Hendrewsons,True,False
+1037,1,Earth,True,G,162,right,TRAPPIST-1e,46,False,250,0,0,0,0,Racily,Olivasquez,True,False
+1042,1,Earth,False,A,8,left,Cancri e,34,True,0,1286,39,527,57,Mizark,Witalnerod,True,False
+1050,1,Earth,True,G,157,left,TRAPPIST-1e,48,False,0,0,230,0,0,Evendy,Buchansen,True,False
+1072,1,Earth,True,G,160,left,PSO J318,57,False,0,0,0,0,0,Lonnis,Arneras,True,False
+1072,2,Earth,True,G,160,left,TRAPPIST-1e,24,False,0,0,0,500,0,Kenda,Arneras,True,False
+1072,8,Earth,True,G,160,left,TRAPPIST-1e,34,False,0,0,0,0,0,Harvin,Arneras,True,False
+1074,2,Earth,True,E,75,right,PSO J318,14,False,0,0,0,0,0,Idarry,Mcbriggins,True,False
+1081,1,Earth,True,G,164,left,TRAPPIST-1e,16,False,0,0,0,0,0,Viviay,Steeletters,True,False
+1090,1,Earth,True,B,42,right,TRAPPIST-1e,21,False,0,0,0,0,0,Sadlami,Aindlylid,True,False
+1106,2,Mars,True,F,209,right,TRAPPIST-1e,13,False,0,0,0,0,0,Ran,Brie,True,False
+1111,2,Earth,True,G,172,right,TRAPPIST-1e,5,False,0,0,0,0,0,Almary,Burnerez,True,False
+1118,2,Earth,True,C,43,right,TRAPPIST-1e,59,False,0,0,0,0,0,Sula,Headal,True,False
+1118,3,Earth,True,C,43,right,TRAPPIST-1e,6,False,0,0,0,0,0,Ashird,Headal,True,False
+1119,2,Mars,True,F,214,right,TRAPPIST-1e,31,False,0,0,0,0,0,Gal,Flie,True,False
+1122,1,Earth,True,G,169,left,TRAPPIST-1e,13,False,0,0,0,0,0,Maril,Monroellynn,True,False
+1124,1,Earth,True,C,44,right,TRAPPIST-1e,31,False,0,0,0,0,0,Sabih,Dighty,True,False
+1124,2,Earth,True,C,44,right,TRAPPIST-1e,22,False,0,0,0,0,0,Keidhma,Dighty,True,False
+1125,2,Earth,True,G,170,left,TRAPPIST-1e,34,False,0,0,0,0,0,Analdy,Torrez,True,False
+1126,1,Mars,True,F,215,right,TRAPPIST-1e,23,False,0,0,0,0,0,Heales,Hoche,True,False
+1128,2,Earth,True,B,41,left,TRAPPIST-1e,30,False,0,0,0,0,0,Arion,Wassid,True,False
+1135,2,Earth,False,A,21,right,Cancri e,61,False,26,3606,0,0,138,Toperon,Coarswing,True,False
+1137,2,Earth,False,A,13,right,Cancri e,28,True,0,109,0,1514,942,Majora,Unings,True,False
+1139,1,Earth,True,G,172,left,PSO J318,25,False,0,0,0,0,0,Aleen,Joycerton,True,False
+1158,1,Mars,True,E,68,left,TRAPPIST-1e,46,False,0,0,0,0,0,Hont,Vloaf,True,False
+1158,2,Mars,True,E,68,left,TRAPPIST-1e,26,False,250,0,0,0,0,Chicke,Vloaf,True,False
+1159,1,Earth,True,G,181,right,PSO J318,19,False,0,0,0,0,0,Trice,Garrez,True,False
+1159,3,Earth,True,G,181,right,PSO J318,11,False,0,0,0,0,0,Naomie,Garrez,True,False
+1172,1,Mars,True,F,222,right,TRAPPIST-1e,18,False,0,0,0,150,0,Healls,Betie,True,False
+1183,1,Earth,True,C,45,left,TRAPPIST-1e,18,False,0,0,0,0,0,Alhail,Derupethy,True,False
+1184,1,Earth,True,C,46,right,PSO J318,26,False,0,0,0,0,0,Astorux,Peraket,True,False
+1207,3,Earth,True,G,185,right,TRAPPIST-1e,1,False,0,0,0,0,0,Sus,River,True,False
+1217,2,Earth,True,D,41,right,TRAPPIST-1e,28,False,0,0,0,0,0,Astrah,Droning,True,False
+1224,1,Mars,True,F,233,right,TRAPPIST-1e,47,False,0,0,0,0,0,Kink,Chene,True,False
+1226,1,Mars,True,F,234,right,TRAPPIST-1e,33,False,0,0,0,0,0,Scers,Flaie,True,False
+1226,2,Mars,True,F,234,right,TRAPPIST-1e,43,False,0,0,0,0,0,Slose,Flaie,True,False
+1227,1,Earth,True,E,88,right,TRAPPIST-1e,28,False,0,0,0,0,400,Anchib,Spedlybood,True,False
+1244,1,Mars,True,F,249,left,TRAPPIST-1e,18,False,0,0,0,0,0,Blues,Shcad,True,False
+1245,1,Earth,True,G,190,right,TRAPPIST-1e,16,False,0,0,0,0,0,Bobina,Schmondez,True,False
+1247,1,Mars,True,F,250,left,TRAPPIST-1e,6,False,0,0,0,0,0,Ses,Conie,True,False
+1251,1,Mars,True,D,43,right,TRAPPIST-1e,29,False,0,0,0,0,0,Row,Steen,True,False
+1257,1,Earth,True,C,51,right,TRAPPIST-1e,33,False,0,0,0,0,0,Thaldah,Nairing,True,False
+1257,2,Earth,True,C,51,right,TRAPPIST-1e,51,False,0,0,0,0,0,Atino,Nairing,True,False
+1265,1,Earth,True,G,188,left,TRAPPIST-1e,13,False,0,0,0,0,0,Dannie,Fredersend,True,False
+1301,2,Earth,True,G,197,right,TRAPPIST-1e,5,False,0,0,0,0,0,Chael,Logannon,True,False
+1301,3,Earth,True,G,197,right,TRAPPIST-1e,48,False,0,0,0,0,0,Ronard,Logannon,True,False
+1320,1,Earth,True,G,195,left,PSO J318,20,False,0,0,0,0,0,Miken,Brenney,True,False
+1320,2,Earth,True,G,195,left,TRAPPIST-1e,2,False,0,0,0,0,0,Derine,Brenney,True,False
+1320,3,Earth,True,G,195,left,TRAPPIST-1e,2,False,0,0,0,0,0,Stenny,Brenney,True,False
+1321,1,Mars,True,E,96,right,TRAPPIST-1e,43,False,0,0,0,0,0,Rail,Gine,True,False
+1321,2,Mars,True,F,256,right,TRAPPIST-1e,10,False,0,0,0,0,0,Swal,Gine,True,False
+1327,1,Earth,True,G,197,left,TRAPPIST-1e,24,False,0,0,0,0,0,Tin,Browlerson,True,False
+1338,2,Earth,True,C,51,left,TRAPPIST-1e,15,False,0,0,0,0,0,Proxima,Ineart,True,False
+1339,1,Earth,True,G,202,right,TRAPPIST-1e,15,False,0,0,0,0,0,Pristy,Booness,True,False
+1341,2,Earth,True,G,204,right,TRAPPIST-1e,15,False,0,0,0,150,0,Hery,Brooke,True,False
+1343,3,Earth,False,A,12,left,Cancri e,27,False,2201,461,0,251,159,Winon,Daterle,True,False
+1349,1,Earth,True,G,205,right,TRAPPIST-1e,40,False,0,0,0,0,0,Naomie,Lowelliott,True,False
+1354,5,Mars,True,F,263,right,TRAPPIST-1e,29,False,0,0,0,0,0,Clus,Saste,True,False
+1354,6,Mars,True,F,263,right,TRAPPIST-1e,17,False,0,0,0,0,0,Mose,Seen,True,False
+1358,1,Mars,True,F,273,left,TRAPPIST-1e,25,False,0,0,0,0,0,Kies,Pate,True,False
+1361,1,Mars,True,F,264,right,TRAPPIST-1e,24,False,0,0,0,0,0,Pus,Sche,True,False
+1367,1,Earth,True,G,207,left,PSO J318,29,False,0,0,0,0,0,Joycey,Rosalanenn,True,False
+1369,2,Earth,True,G,209,left,PSO J318,40,False,0,0,0,0,0,Debony,Ocherman,True,False
+1372,1,Earth,True,G,210,left,TRAPPIST-1e,36,False,0,0,0,0,0,Thery,Cobson,True,False
+1388,1,Earth,True,G,211,right,PSO J318,17,False,0,0,0,0,0,Eddiey,Boyersons,True,False
+1394,1,Earth,True,G,213,right,PSO J318,47,False,0,0,0,0,0,Elson,Gregordy,True,False
+1409,2,Mars,True,E,107,right,TRAPPIST-1e,43,False,0,0,0,0,0,Rosts,Soun,True,False
+1422,3,Earth,False,A,15,right,Cancri e,48,False,58,105,0,7536,103,Grasath,Qualelfic,True,False
+1466,1,Earth,True,G,225,right,TRAPPIST-1e,49,False,0,0,0,0,0,Doryn,Raney,True,False
+1470,1,Earth,True,G,235,left,TRAPPIST-1e,20,False,0,0,0,0,0,Julin,Rasmussony,True,False
+1471,2,Earth,True,G,226,right,TRAPPIST-1e,1,False,0,0,0,0,0,Weney,Morez,True,False
+1471,5,Earth,True,G,226,right,TRAPPIST-1e,8,False,0,0,0,0,0,Kentha,Morez,True,False
+1472,1,Earth,True,G,236,left,PSO J318,29,False,0,0,0,0,0,Kimena,Dillips,True,False
+1480,1,Earth,True,G,238,left,TRAPPIST-1e,42,False,0,0,0,0,0,Melia,Dicksons,True,False
+1482,1,Mars,True,F,284,right,TRAPPIST-1e,22,False,0,0,0,0,0,Prish,Bancy,True,False
+1486,1,Earth,True,G,228,right,TRAPPIST-1e,41,False,0,0,0,0,0,Randa,Tuckers,True,False
+1487,1,Earth,True,G,239,left,PSO J318,0,False,0,0,0,0,0,Shally,Knoxtones,True,False
+1496,1,Earth,True,G,242,left,TRAPPIST-1e,50,False,0,0,0,0,0,Estine,Scottney,True,False
+1497,1,Mars,True,F,294,left,TRAPPIST-1e,17,False,0,0,0,0,0,Chios,Chmad,True,False
+1497,2,Mars,True,F,294,left,TRAPPIST-1e,18,False,0,0,0,0,0,Pil,Chmad,True,False
+1502,4,Earth,True,C,54,left,TRAPPIST-1e,71,False,0,0,0,0,0,Hadaton,Donotaked,True,False
+1513,1,Earth,True,G,232,right,PSO J318,25,False,0,0,0,0,0,Annya,Benney,True,False
+1514,1,Earth,True,G,233,right,PSO J318,35,False,0,0,0,0,0,Jodye,Daughttley,True,False
+1522,1,Mars,True,F,296,right,TRAPPIST-1e,27,False,250,0,0,0,0,Prabon,Bancy,True,False
+1534,1,Mars,True,E,113,right,TRAPPIST-1e,23,False,1556,0,31,0,0,Ponts,Monie,True,False
+1534,2,Mars,True,D,55,right,TRAPPIST-1e,33,False,3303,0,40,1,0,Krunch,Rasty,True,False
+1553,1,Mars,True,F,302,right,TRAPPIST-1e,27,False,0,0,0,0,0,Pros,Hacle,True,False
+1554,1,Earth,True,G,246,left,PSO J318,33,False,0,0,0,0,0,Rica,Reenez,True,False
+1556,1,Earth,True,G,241,right,TRAPPIST-1e,29,False,0,0,0,0,0,Tonnie,Sosalinson,True,False
+1559,2,Earth,True,B,51,left,TRAPPIST-1e,27,False,0,0,0,0,0,Suhaion,Cluide,True,False
+1574,1,Earth,True,G,244,right,TRAPPIST-1e,46,False,0,0,0,0,0,Weslie,Cartz,True,False
+1575,1,Earth,True,G,245,right,TRAPPIST-1e,16,False,0,0,0,0,0,Cinda,Midtt,True,False
+1583,1,Mars,True,F,306,right,TRAPPIST-1e,60,False,0,0,0,0,0,Gut,Sam,True,False
+1587,1,Earth,True,G,247,right,PSO J318,37,False,0,0,0,0,0,Tanley,Reynoldez,True,False
+1607,1,Earth,True,G,258,left,PSO J318,20,False,0,0,0,0,0,Karia,Moodsey,True,False
+1616,1,Earth,True,G,260,left,TRAPPIST-1e,69,False,0,0,0,0,0,Inette,Mckinsond,True,False
+1627,1,Earth,True,G,251,right,TRAPPIST-1e,34,False,0,0,0,0,0,Doray,Fryersonis,True,False
+1629,3,Earth,True,B,72,right,TRAPPIST-1e,24,False,0,0,0,0,0,unknown,unknown,True,False
+1629,4,Earth,True,B,72,right,TRAPPIST-1e,21,False,0,0,0,0,0,Mizaron,Ineysive,True,False
+1629,5,Earth,True,B,72,right,TRAPPIST-1e,25,False,0,0,0,0,0,Alballa,Ineysive,True,False
+1641,1,Mars,True,F,326,left,TRAPPIST-1e,64,False,0,0,0,0,0,Laptin,Parté,True,False
+1648,1,Earth,True,E,120,right,TRAPPIST-1e,29,False,0,0,0,0,0,Pollum,Gearriting,True,False
+1652,1,Earth,True,G,259,right,PSO J318,4,False,0,0,0,0,0,Coracy,Frederry,True,False
+1665,1,Earth,True,C,60,left,TRAPPIST-1e,52,False,0,0,0,0,0,Mesarid,Cotorming,True,False
+1665,2,Earth,True,C,60,left,TRAPPIST-1e,29,False,0,0,0,0,400,Alcorux,Cotorming,True,False
+1679,1,Earth,True,G,271,left,TRAPPIST-1e,8,False,0,0,0,0,0,Berna,Nasquez,True,False
+1689,1,Earth,True,C,64,right,TRAPPIST-1e,2,False,0,0,0,0,0,Murzimp,Asseple,True,False
+1701,1,Earth,True,G,275,left,TRAPPIST-1e,22,False,0,0,0,0,0,Coley,Gilleranks,True,False
+1726,2,Mars,True,F,329,right,TRAPPIST-1e,11,False,0,0,0,0,0,Siese,Chnie,True,False
+1732,1,Earth,True,G,282,left,TRAPPIST-1e,21,False,0,0,0,0,0,Sanney,Gaineyerson,True,False
+1741,2,Earth,True,G,286,left,TRAPPIST-1e,4,False,0,0,0,0,0,Pennie,Langatein,True,False
+1750,1,Earth,True,G,289,left,TRAPPIST-1e,46,False,0,0,0,0,0,Heald,Howenters,True,False
+1759,1,Mars,True,F,335,right,TRAPPIST-1e,26,False,0,0,0,0,0,Toal,Ches,True,False
+1765,1,Earth,True,G,290,left,TRAPPIST-1e,38,False,0,0,0,0,0,Joelan,Bookson,True,False
+1777,2,Earth,True,B,56,left,TRAPPIST-1e,62,False,0,0,0,0,0,Wimpha,Vertfull,True,False
+1790,1,Earth,True,G,294,left,TRAPPIST-1e,47,False,0,0,0,0,0,Kentha,Hamberterry,True,False
+1790,2,Earth,True,G,294,left,TRAPPIST-1e,48,False,0,0,0,0,0,Willey,Hamberterry,True,False
+1791,2,Mars,True,F,351,left,TRAPPIST-1e,19,False,0,0,0,0,0,Apple,Spien,True,False
+1809,1,Earth,True,G,296,left,TRAPPIST-1e,22,False,0,0,0,0,0,Luise,Gallandez,True,False
+1814,2,Earth,True,G,286,right,PSO J318,29,False,0,0,0,0,0,Bland,Harrenoldez,True,False
+1815,1,Mars,True,F,348,right,TRAPPIST-1e,44,False,0,0,0,0,0,Komos,Ecre,True,False
+1820,1,Mars,True,E,110,left,TRAPPIST-1e,25,False,0,0,0,0,0,Boats,Gele,True,False
+1830,1,Earth,True,G,287,right,PSO J318,15,False,0,0,0,0,0,Coracy,Fielson,True,False
+1835,1,Earth,True,B,76,right,TRAPPIST-1e,22,False,0,0,0,0,0,Antak,Cassiding,True,False
+1835,2,Earth,True,B,76,right,TRAPPIST-1e,42,False,0,0,0,0,0,Hekaron,Cassiding,True,False
+1838,1,Mars,True,F,363,left,TRAPPIST-1e,35,False,0,0,0,0,0,Cowl,Erte,True,False
+1851,2,Earth,True,B,78,right,TRAPPIST-1e,37,False,0,0,0,0,0,Mino,Healted,True,False
+1852,3,Earth,True,B,79,right,TRAPPIST-1e,34,False,0,0,0,0,0,Tachird,Semootor,True,False
+1883,1,Mars,True,E,114,left,TRAPPIST-1e,16,False,0,0,0,0,0,Berbee,Flell,True,False
+1893,1,Mars,True,F,362,right,TRAPPIST-1e,40,False,0,0,0,0,0,Coass,Empie,True,False
+1894,1,Mars,True,F,379,left,TRAPPIST-1e,19,False,0,0,0,0,0,Arts,Steen,True,False
+1904,1,Earth,False,A,15,left,Cancri e,31,False,19,607,0,500,2756,Sceleon,Scerodbox,True,False
+1909,1,Earth,True,C,64,left,PSO J318,41,False,0,0,0,0,0,Prope,Prighty,True,False
+1909,2,Earth,True,C,64,left,TRAPPIST-1e,16,False,0,0,0,0,0,Acruxa,Prighty,True,False
+1913,2,Mars,True,F,381,left,TRAPPIST-1e,57,False,0,0,0,0,0,Corse,Ane,True,False
+1913,3,Mars,True,F,381,left,TRAPPIST-1e,13,False,0,0,0,0,0,Aark,Ane,True,False
+1914,1,Earth,True,G,301,right,PSO J318,32,False,0,0,0,500,0,Isaacy,Kimpson,True,False
+1924,1,Earth,True,G,311,left,PSO J318,14,False,0,0,0,0,0,Jordy,Greeves,True,False
+1965,1,Earth,True,G,317,left,TRAPPIST-1e,35,False,0,0,0,0,0,Racyle,Ramoran,True,False
+1986,1,Mars,True,F,377,right,TRAPPIST-1e,45,False,0,0,0,0,0,Toate,Monie,True,False
+1990,1,Mars,True,F,395,left,TRAPPIST-1e,31,False,0,0,0,0,0,Cers,Blake,True,False
+2002,1,Mars,True,F,384,right,TRAPPIST-1e,57,False,0,0,0,0,0,Craird,Creke,True,False
+2004,1,Mars,True,E,147,right,TRAPPIST-1e,24,False,0,0,0,0,0,Yapich,Pashe,True,False
+2014,1,Earth,True,E,148,right,TRAPPIST-1e,49,False,0,0,0,0,0,Hadalm,Switmorary,True,False
+2016,1,Mars,True,F,388,right,TRAPPIST-1e,24,False,0,0,0,0,0,Graisp,Barte,True,False
+2018,1,Earth,True,G,319,right,TRAPPIST-1e,4,False,0,0,0,0,0,Thony,Franey,True,False
+2021,1,Earth,True,G,320,right,TRAPPIST-1e,23,False,0,0,0,0,0,Andace,Flynnis,True,False
+2023,2,Earth,True,G,321,right,TRAPPIST-1e,4,False,0,0,0,0,0,Elenna,Stantiagord,True,False
+2023,3,Earth,True,G,321,right,TRAPPIST-1e,3,False,0,0,0,0,0,Monah,Stantiagord,True,False
+2035,2,Mars,True,F,403,left,TRAPPIST-1e,20,False,0,0,0,0,0,Donch,Backe,True,False
+2036,1,Earth,True,G,326,left,PSO J318,22,False,0,0,0,0,0,Sylvin,Jacostanley,True,False
+2037,1,Earth,True,B,61,left,TRAPPIST-1e,22,False,0,0,0,0,0,Solaron,Laturive,True,False
+2039,2,Mars,True,F,405,left,TRAPPIST-1e,19,False,0,0,0,0,0,Callix,Jaff,True,False
+2039,3,Mars,True,F,405,left,TRAPPIST-1e,29,False,0,0,0,0,0,Beres,Balle,True,False
+2047,1,Earth,True,G,325,right,TRAPPIST-1e,17,False,0,0,0,0,0,Raulia,Jenkinnedy,True,False
+2049,1,Earth,True,G,326,right,PSO J318,20,False,0,0,0,0,0,Kirky,Edwartizman,True,False
+2057,1,Earth,True,G,332,left,PSO J318,6,False,0,0,0,0,0,Carold,Carley,True,False
+2057,4,Earth,True,G,332,left,TRAPPIST-1e,46,False,0,0,0,0,0,Agnesa,Lewinton,True,False
+2064,1,Mars,True,F,409,left,TRAPPIST-1e,23,False,0,0,0,0,0,Mos,Terry,True,False
+2068,1,Earth,True,C,71,left,TRAPPIST-1e,28,False,0,0,0,0,0,Izarino,Ingent,True,False
+2076,1,Mars,True,F,403,right,TRAPPIST-1e,55,False,0,0,0,0,0,Varz,Hast,True,False
+2078,1,Mars,True,F,405,right,TRAPPIST-1e,70,False,0,0,0,0,0,Crios,Biane,True,False
+2109,1,Earth,True,G,337,right,TRAPPIST-1e,44,False,0,0,0,0,0,Heila,Hestes,True,False
+2119,2,Earth,True,G,340,right,TRAPPIST-1e,35,False,0,0,0,0,0,Fanna,Masquez,True,False
+2132,1,Earth,True,G,342,right,PSO J318,19,False,0,0,0,0,0,Johna,Wartyson,True,False
+2151,1,Earth,True,G,346,right,TRAPPIST-1e,39,False,0,0,0,0,0,Brina,Ballocks,True,False
+2160,3,Mars,True,F,428,left,TRAPPIST-1e,8,False,0,0,0,0,0,Mark,Anate,True,False
+2176,1,Earth,True,G,353,left,PSO J318,29,False,0,0,0,0,0,Dia,Dotsonton,True,False
+2184,2,Earth,True,C,81,right,TRAPPIST-1e,43,False,0,0,0,0,0,Ankabit,Coilling,True,False
+2222,1,Mars,True,F,447,left,TRAPPIST-1e,19,False,0,0,0,0,0,Ockies,Burie,True,False
+2226,1,Earth,True,G,357,left,PSO J318,27,False,142,0,99,232,0,Garry,Owerson,True,False
+2227,1,Mars,True,F,436,right,TRAPPIST-1e,23,False,0,0,0,0,0,Eggers,Chen,True,False
+2230,1,Earth,True,G,358,left,TRAPPIST-1e,6,False,0,0,0,0,0,Sonard,Greenez,True,False
+2260,1,Earth,True,D,67,left,TRAPPIST-1e,33,False,0,0,0,0,0,Okulam,Clumsty,True,False
+2276,1,Earth,True,G,361,right,TRAPPIST-1e,46,False,0,0,0,0,0,Ellena,Sosanturney,True,False
+2290,1,Earth,True,G,364,right,PSO J318,24,False,0,0,0,0,0,Nelle,Cardners,True,False
+2292,1,Earth,True,G,366,right,PSO J318,19,False,0,0,0,0,0,Nichad,Shephendery,True,False
+2293,1,Mars,True,F,446,right,TRAPPIST-1e,51,False,0,0,0,0,0,Cink,Hacle,True,False
+2304,1,Earth,True,G,370,left,TRAPPIST-1e,21,False,0,0,0,0,0,Glenry,Herreras,True,False
+2307,1,Earth,True,E,164,right,TRAPPIST-1e,6,False,0,0,0,0,0,Shalle,Foledges,True,False
+2307,5,Earth,True,E,164,right,TRAPPIST-1e,7,False,0,0,0,0,0,Adriet,Foledges,True,False
+2326,1,Earth,True,G,374,left,TRAPPIST-1e,24,False,0,0,0,0,0,Lolas,Owery,True,False
+2335,1,Earth,True,G,376,right,PSO J318,27,False,0,0,0,0,0,unknown,unknown,True,False
+2337,1,Earth,True,G,375,left,PSO J318,14,False,0,0,0,0,0,Kendre,Pittler,True,False
+2355,1,Earth,True,D,79,right,TRAPPIST-1e,37,False,0,0,0,500,0,Minus,Unticatter,True,False
+2370,1,Earth,True,G,382,left,TRAPPIST-1e,36,False,0,0,0,0,0,Lardy,Hoffergess,True,False
+2370,2,Earth,True,G,382,left,TRAPPIST-1e,4,False,0,0,0,0,0,Jayne,Hoffergess,True,False
+2378,2,Mars,True,F,460,right,TRAPPIST-1e,5,False,0,0,0,0,0,Pebix,Blie,True,False
+2381,1,Earth,True,G,381,right,PSO J318,21,False,0,0,0,0,0,Ivaney,Ellahan,True,False
+2386,1,Mars,True,F,489,left,TRAPPIST-1e,28,False,0,0,230,0,0,Dat,Peake,True,False
+2388,2,Earth,True,G,384,left,TRAPPIST-1e,14,False,0,0,0,0,0,Ellene,Gentledges,True,False
+2394,1,Earth,True,G,385,right,PSO J318,78,False,0,0,0,0,0,Bonya,Garrez,True,False
+2425,1,Earth,True,G,396,left,TRAPPIST-1e,0,False,0,0,0,0,0,Raulia,Tranklinay,True,False
+2425,6,Earth,True,G,396,left,TRAPPIST-1e,4,False,0,0,0,0,0,Lan,Tranklinay,True,False
+2430,1,Earth,True,G,394,right,TRAPPIST-1e,32,False,0,0,0,0,0,Darry,Mcphernard,True,False
+2430,2,Earth,True,G,394,right,TRAPPIST-1e,7,False,0,0,0,0,0,Beathy,Mcphernard,True,False
+2434,1,Earth,True,G,397,left,TRAPPIST-1e,34,False,0,0,0,0,0,Meline,Steelerettt,True,False
+2469,1,Mars,True,F,473,right,TRAPPIST-1e,25,False,0,0,0,0,0,Cruis,Apple,True,False
+2484,1,Mars,True,F,478,right,TRAPPIST-1e,71,False,0,0,0,0,0,Eres,Clake,True,False
+2487,2,Mars,True,F,514,left,TRAPPIST-1e,18,False,0,0,0,0,0,Lopedo,Saf,True,False
+2494,1,Earth,True,B,95,right,TRAPPIST-1e,18,False,0,0,0,0,0,Shamak,Bacistion,True,False
+2501,1,Earth,True,C,90,right,TRAPPIST-1e,47,False,0,0,230,0,0,unknown,unknown,True,False
+2507,1,Earth,True,G,405,left,TRAPPIST-1e,23,False,0,0,0,0,0,Jordy,Currisones,True,False
+2517,1,Mars,True,F,484,right,TRAPPIST-1e,35,False,0,0,0,0,0,Miten,Nuthe,True,False
+2536,1,Mars,True,F,490,right,TRAPPIST-1e,47,False,0,0,0,0,0,Heres,Paie,True,False
+2538,2,Earth,True,B,76,left,TRAPPIST-1e,31,False,0,0,0,0,0,Wimps,Uncionted,True,False
+2563,1,Earth,True,G,409,right,TRAPPIST-1e,15,False,0,0,0,0,0,Glorey,Holsen,True,False
+2567,1,Mars,True,E,180,right,TRAPPIST-1e,28,False,0,0,0,0,0,Cheats,Pien,True,False
+2567,2,Mars,True,F,494,right,TRAPPIST-1e,17,False,0,0,0,0,0,Hon,Pien,True,False
+2570,1,Earth,True,G,413,left,TRAPPIST-1e,18,False,0,0,0,0,0,Gabrie,Summington,True,False
+2576,1,Mars,True,F,497,right,TRAPPIST-1e,32,False,0,0,0,0,400,Yapich,Che,True,False
+2577,1,Earth,True,G,411,right,TRAPPIST-1e,19,False,0,0,0,0,0,Catha,Delez,True,False
+2577,2,Earth,True,G,411,right,TRAPPIST-1e,9,False,0,0,0,0,0,Jilley,Delez,True,False
+2583,1,Earth,True,G,416,left,TRAPPIST-1e,21,False,0,0,0,0,0,Velyne,Webstephrey,True,False
+2585,1,Earth,True,B,79,left,TRAPPIST-1e,40,False,0,0,0,0,0,Phernar,Coweboded,True,False
+2586,1,Earth,True,G,418,left,TRAPPIST-1e,42,False,250,0,0,0,0,Wilmay,Santin,True,False
+2587,1,Mars,True,F,532,left,TRAPPIST-1e,40,False,0,0,0,0,0,Ties,Hoche,True,False
+2587,2,Mars,True,F,532,left,TRAPPIST-1e,22,False,0,0,0,0,0,Hion,Hoche,True,False
+2603,1,Earth,True,G,414,right,TRAPPIST-1e,38,False,0,0,0,0,0,Hanna,Mejiarkerox,True,False
+2604,1,Earth,True,G,423,left,PSO J318,24,False,0,0,0,0,0,Timyra,Gentledges,True,False
+2608,1,Earth,True,G,415,right,TRAPPIST-1e,22,False,0,0,0,0,0,Harrie,Kaney,True,False
+2630,2,Earth,True,G,418,right,TRAPPIST-1e,9,False,0,0,0,0,0,Willey,Onell,True,False
+2630,3,Earth,True,G,418,right,TRAPPIST-1e,1,False,0,0,0,0,0,Sha,Onell,True,False
+2637,2,Earth,True,G,429,left,PSO J318,2,False,0,0,0,0,0,Garyan,Rothewson,True,False
+2639,1,Mars,True,F,509,right,TRAPPIST-1e,25,False,0,0,0,0,0,Golos,Ropie,True,False
+2656,1,Earth,True,C,96,right,TRAPPIST-1e,43,False,0,0,0,0,0,Alinan,Clinarfork,True,False
+2667,4,Earth,True,B,101,right,TRAPPIST-1e,30,False,0,0,0,0,0,Boteino,Vactive,True,False
+2681,1,Earth,True,G,427,right,PSO J318,43,False,0,0,0,0,0,Carley,Tersony,True,False
+2694,1,Earth,True,B,84,left,TRAPPIST-1e,48,False,0,0,0,0,0,Maham,Aneter,True,False
+2705,1,Earth,True,G,430,right,TRAPPIST-1e,22,False,0,0,0,0,0,Jenn,Morgerson,True,False
+2719,2,Mars,True,F,524,right,TRAPPIST-1e,12,False,0,0,0,0,0,Shams,Curle,True,False
+2731,1,Earth,True,G,434,right,TRAPPIST-1e,24,False,0,0,0,0,0,Rone,Fersongs,True,False
+2742,1,Earth,True,G,436,right,PSO J318,38,False,0,0,0,0,0,Erick,Mondalley,True,False
+2749,1,Earth,True,G,437,right,TRAPPIST-1e,28,False,0,0,0,0,0,Loria,Beckeetter,True,False
+2794,6,Mars,True,F,579,left,TRAPPIST-1e,14,False,0,0,0,0,0,Tous,Mellé,True,False
+2794,7,Mars,True,F,579,left,TRAPPIST-1e,18,False,0,0,0,0,0,Dooss,Apie,True,False
+2803,1,Earth,True,D,84,left,TRAPPIST-1e,35,False,0,0,0,0,0,Atrix,Dedentive,True,False
+2804,1,Earth,True,G,448,right,TRAPPIST-1e,24,False,0,0,0,0,0,Monard,Cookentaney,True,False
+2815,2,Earth,True,G,456,left,TRAPPIST-1e,3,False,0,0,0,0,0,Daven,Bushafford,True,False
+2816,1,Earth,True,D,85,left,TRAPPIST-1e,69,False,0,0,0,0,0,Sulah,Gleroling,True,False
+2829,1,Earth,True,G,460,left,TRAPPIST-1e,18,False,0,0,0,0,0,Walley,Byerton,True,False
+2830,1,Earth,True,G,461,left,PSO J318,25,False,0,0,0,0,0,Adriet,Barris,True,False
+2833,1,Earth,True,G,462,left,PSO J318,15,False,0,0,0,0,0,Lonnis,Davens,True,False
+2842,1,Earth,True,G,463,left,TRAPPIST-1e,29,False,0,0,0,0,0,Isaacy,Weaverays,True,False
+2845,2,Earth,True,C,97,left,TRAPPIST-1e,22,False,0,0,0,0,0,Atonon,Resendent,True,False
+2850,2,Mars,True,F,543,right,TRAPPIST-1e,0,False,0,0,0,0,0,Gian,Nuthe,True,False
+2850,4,Mars,True,F,543,right,TRAPPIST-1e,6,False,0,0,0,0,0,Hony,Nuthe,True,False
+2868,1,Earth,True,G,453,right,TRAPPIST-1e,7,False,0,0,0,0,0,Jeret,Bonder,True,False
+2868,2,Earth,True,G,453,right,TRAPPIST-1e,3,False,0,0,0,0,0,Rosiey,Bonder,True,False
+2868,3,Earth,True,G,453,right,TRAPPIST-1e,3,False,0,0,0,0,0,Done,Bonder,True,False
+2898,2,Earth,True,B,90,left,TRAPPIST-1e,35,False,0,0,0,0,0,Ashird,Whetingert,True,False
+2904,2,Earth,True,C,99,left,TRAPPIST-1e,32,False,0,0,0,0,0,Luxonon,Dishearly,True,False
+2911,1,Earth,True,G,465,right,TRAPPIST-1e,29,False,0,0,0,0,0,Carona,Leton,True,False
+2914,1,Earth,True,B,91,left,TRAPPIST-1e,19,False,0,0,0,0,0,Sadares,Reeddommy,True,False
+2915,1,Mars,True,F,554,right,TRAPPIST-1e,45,False,0,0,0,0,0,Wealke,Beake,True,False
+2916,1,Mars,True,F,604,left,TRAPPIST-1e,69,False,0,0,0,0,0,Mars,Ickes,True,False
+2931,1,Earth,True,G,475,left,TRAPPIST-1e,34,False,0,0,0,0,0,Essara,Mcfarley,True,False
+2932,1,Earth,True,B,109,right,TRAPPIST-1e,45,False,0,0,0,0,0,Tarain,Tachor,True,False
+2947,1,Earth,True,G,481,left,TRAPPIST-1e,40,False,0,0,0,0,0,Byrona,Kerrealds,True,False
+2957,1,Earth,True,G,484,left,TRAPPIST-1e,35,False,0,0,0,0,0,Eillis,Cobson,True,False
+2981,1,Earth,True,G,487,left,PSO J318,14,False,0,0,0,0,0,Francy,Farleyatton,True,False
+2997,4,Earth,True,B,95,left,TRAPPIST-1e,43,False,0,0,0,0,0,Chard,Prombled,True,False
+3008,3,Earth,True,D,92,left,TRAPPIST-1e,21,False,0,0,0,0,0,Eleons,Timanable,True,False
+3011,1,Earth,True,G,489,left,TRAPPIST-1e,25,False,0,0,0,0,0,Leene,Haydenzier,True,False
+3016,2,Earth,True,G,490,left,TRAPPIST-1e,1,False,0,0,0,0,0,Philia,Rickson,True,False
+3016,3,Earth,True,G,490,left,TRAPPIST-1e,1,False,0,0,0,0,0,Camiet,Bakericks,True,False
+3028,1,Earth,True,G,494,left,TRAPPIST-1e,22,False,0,0,0,0,0,Mathy,Frannis,True,False
+3037,2,Earth,True,C,104,left,TRAPPIST-1e,40,False,0,0,0,0,0,Taurah,Gloyanthy,True,False
+3043,1,Mars,True,F,635,left,TRAPPIST-1e,55,False,174,0,958,84,0,Tros,Kniva,True,False
+3056,1,Earth,True,G,497,left,TRAPPIST-1e,16,False,0,0,0,0,0,Brita,Rushing,True,False
+3059,1,Earth,True,B,100,left,TRAPPIST-1e,62,False,0,0,0,0,0,Astrark,Preeldy,True,False
+3078,3,Earth,True,C,117,right,TRAPPIST-1e,24,False,0,0,0,0,0,Pheino,Busive,True,False
+3089,1,Mars,True,E,202,right,TRAPPIST-1e,44,False,0,0,0,0,0,Allift,Madan,True,False
+3094,1,Earth,True,G,484,right,TRAPPIST-1e,19,False,0,0,0,0,0,Tonioe,Wallerson,True,False
+3097,1,Mars,True,F,644,left,TRAPPIST-1e,14,False,0,0,0,0,200,Ree,Dato,True,False
+3105,1,Earth,True,C,105,left,TRAPPIST-1e,48,False,0,0,0,0,0,Celavas,Alaring,True,False
+3107,1,Earth,True,G,486,right,TRAPPIST-1e,63,False,0,0,0,0,0,Allie,Weissey,True,False
+3108,1,Earth,True,G,508,left,TRAPPIST-1e,53,False,0,0,0,0,0,Gerly,Navages,True,False
+3115,1,Earth,True,G,489,right,PSO J318,40,False,0,0,0,0,0,Lilly,Mccarveymon,True,False
+3137,1,Earth,True,F,651,left,PSO J318,18,False,0,0,0,0,0,Bonyam,Stanters,True,False
+3141,1,Mars,True,F,590,right,TRAPPIST-1e,25,False,0,0,0,0,0,Gone,Blie,True,False
+3154,1,Earth,True,G,498,right,TRAPPIST-1e,37,False,0,0,0,0,0,Len,Bakerson,True,False
+3170,1,Earth,True,G,501,right,TRAPPIST-1e,27,False,0,0,0,0,0,Marlly,Baxters,True,False
+3173,1,Earth,True,G,503,right,TRAPPIST-1e,33,False,0,0,0,0,0,Paulia,Wolffy,True,False
+3178,1,Mars,True,F,662,left,TRAPPIST-1e,22,False,0,0,0,0,0,Sug,Sté,True,False
+3186,1,Mars,True,F,664,left,TRAPPIST-1e,18,False,0,0,0,0,0,unknown,unknown,True,False
+3187,1,Earth,False,A,26,left,Cancri e,31,False,45,3150,0,1656,0,Misa,Dompreced,True,False
+3190,2,Mars,True,E,210,right,TRAPPIST-1e,48,False,0,0,0,0,0,Carves,Bert,True,False
+3214,1,Mars,True,F,605,right,TRAPPIST-1e,33,False,0,0,0,0,0,Wales,Tre,True,False
+3226,1,Mars,True,F,608,right,TRAPPIST-1e,23,False,0,0,0,0,0,Quars,Stre,True,False
+3257,1,Mars,True,F,614,right,TRAPPIST-1e,69,False,0,0,0,0,0,Wacks,Mitte,True,False
+3263,1,Mars,True,F,616,right,TRAPPIST-1e,34,False,0,0,0,500,0,Monam,Tité,True,False
+3278,1,Mars,True,F,683,left,TRAPPIST-1e,28,False,0,0,230,0,0,Badont,Blan,True,False
+3285,2,Mars,True,E,220,right,TRAPPIST-1e,40,False,0,0,0,0,0,Terek,Shbre,True,False
+3288,1,Mars,True,F,685,left,TRAPPIST-1e,24,False,0,0,0,0,0,Dings,Ste,True,False
+3290,1,Mars,True,F,622,right,TRAPPIST-1e,53,False,0,0,0,0,0,Anamos,Pre,True,False
+3291,1,Earth,True,G,523,right,TRAPPIST-1e,17,False,0,0,0,0,0,Card,Puckenton,True,False
+3321,1,Mars,True,F,629,right,TRAPPIST-1e,33,False,0,0,0,0,0,Newtch,Chen,True,False
+3334,1,Earth,True,G,529,right,PSO J318,47,False,0,0,0,0,0,Lilace,Kaufmaneyes,True,False
+3344,1,Earth,True,B,126,right,TRAPPIST-1e,24,False,0,0,0,0,0,Chabih,Obeaded,True,False
+3344,2,Earth,True,B,126,right,TRAPPIST-1e,15,False,0,0,230,0,0,Cellah,Obeaded,True,False
+3345,3,Earth,True,G,533,right,PSO J318,14,False,0,0,230,0,0,Bellee,Pughlinsons,True,False
+3355,1,Earth,True,G,548,left,PSO J318,23,False,0,0,0,0,0,Blanie,Fuenterson,True,False
+3366,1,Earth,True,B,129,right,TRAPPIST-1e,29,False,0,0,0,0,0,Taurak,Unaring,True,False
+3368,1,Mars,True,E,228,right,TRAPPIST-1e,18,False,0,0,0,0,0,Poot,Stité,True,False
+3368,4,Mars,True,E,228,right,TRAPPIST-1e,19,False,0,0,0,0,0,Razzle,Buko,True,False
+3368,5,Mars,True,E,228,right,TRAPPIST-1e,47,False,0,0,0,500,0,Chal,Buko,True,False
+3373,1,Earth,True,G,538,right,TRAPPIST-1e,37,False,0,0,0,0,0,Dellie,Estein,True,False
+3393,1,Earth,True,G,555,left,TRAPPIST-1e,7,False,0,0,0,0,0,Byront,Robersondez,True,False
+3400,1,Earth,True,G,544,right,TRAPPIST-1e,38,False,0,0,0,0,0,unknown,unknown,True,False
+3411,5,Mars,True,F,645,right,TRAPPIST-1e,25,False,0,0,0,0,400,Douse,Homin,True,False
+3411,6,Mars,True,F,645,right,TRAPPIST-1e,9,False,0,0,0,0,0,Kadown,Harta,True,False
+3427,1,Earth,True,G,550,right,TRAPPIST-1e,53,False,0,0,0,0,0,Marine,Harperez,True,False
+3429,1,Earth,True,E,235,right,TRAPPIST-1e,27,False,0,0,0,0,0,Rasalm,Monfulewss,True,False
+3482,2,Earth,True,G,572,left,TRAPPIST-1e,23,False,0,0,0,0,0,Bobbyn,Hahnstoneal,True,False
+3513,2,Earth,True,B,134,right,TRAPPIST-1e,13,False,0,0,0,0,0,Hezenif,Obsentork,True,False
+3522,1,Earth,True,G,567,right,PSO J318,31,False,0,0,0,0,0,Elicia,Lunapperts,True,False
+3529,1,Mars,True,F,730,left,TRAPPIST-1e,40,False,0,0,0,0,0,Clow,Kie,True,False
+3532,1,Mars,True,F,667,right,TRAPPIST-1e,69,False,0,0,0,0,0,Powl,Sche,True,False
+3549,2,Earth,True,D,114,left,TRAPPIST-1e,62,False,0,0,0,0,0,unknown,unknown,True,False
+3571,1,Earth,True,G,575,right,PSO J318,21,False,0,0,0,0,0,Sanya,Jorden,True,False
+3580,2,Earth,True,B,138,right,TRAPPIST-1e,48,False,0,0,0,0,0,Azet,Airdring,True,False
+3585,1,Earth,True,G,577,right,PSO J318,16,False,0,0,230,0,0,Yolace,Guerson,True,False
+3589,2,Earth,True,G,587,left,TRAPPIST-1e,3,False,0,0,0,0,0,Harlos,Petton,True,False
+3589,3,Earth,True,G,587,left,PSO J318,11,False,0,0,0,0,0,Deany,Waltonson,True,False
+3589,4,Earth,True,G,587,left,PSO J318,5,False,0,0,0,0,0,Jeane,Lambucketty,True,False
+3589,6,Earth,True,G,587,left,TRAPPIST-1e,1,False,0,0,0,0,0,Ireen,Petton,True,False
+3589,7,Earth,True,G,587,left,TRAPPIST-1e,0,False,0,0,0,0,0,Verek,Petton,True,False
+3601,3,Earth,True,G,591,left,TRAPPIST-1e,11,False,0,0,0,0,0,Ritany,Hopperett,True,False
+3601,5,Earth,True,G,591,left,TRAPPIST-1e,13,False,0,0,0,0,0,Doria,Hinglendez,True,False
+3603,1,Mars,True,F,679,right,TRAPPIST-1e,52,False,0,0,0,0,0,Oareel,Bre,True,False
+3603,2,Mars,True,F,679,right,TRAPPIST-1e,15,False,0,0,0,0,0,Jifes,Bre,True,False
+3604,1,Earth,True,G,581,right,TRAPPIST-1e,58,False,0,0,0,500,0,Berta,Franton,True,False
+3618,2,Earth,False,A,41,right,Cancri e,42,True,0,2227,76,2140,5513,Mareson,Poustive,True,False
+3633,1,Mars,True,F,756,left,TRAPPIST-1e,39,False,0,0,0,0,0,Coves,Bun,True,False
+3643,1,Earth,True,G,590,right,TRAPPIST-1e,21,False,0,0,0,0,0,Davisy,Shermann,True,False
+3651,1,Earth,True,B,141,right,TRAPPIST-1e,36,False,0,0,0,0,0,Haldah,Mostedry,True,False
+3659,2,Earth,True,G,597,left,TRAPPIST-1e,3,False,0,0,0,0,0,Anthia,Bucklandez,True,False
+3659,7,Earth,True,G,597,left,PSO J318,2,False,0,0,0,0,0,Paulah,Bucklandez,True,False
+3663,1,Mars,True,F,760,left,TRAPPIST-1e,19,False,0,0,0,0,0,unknown,unknown,True,False
+3670,1,Earth,True,G,597,right,PSO J318,55,False,0,0,0,0,0,Monald,Santantines,True,False
+3675,2,Earth,True,G,601,right,PSO J318,51,False,0,0,0,0,0,Curtle,Welles,True,False
+3675,3,Earth,True,G,601,right,TRAPPIST-1e,18,False,0,0,0,0,0,Gerry,Welles,True,False
+3676,1,Earth,True,B,143,right,TRAPPIST-1e,44,False,0,0,0,0,0,Astorux,Gleroling,True,False
+3683,1,Earth,True,C,122,left,TRAPPIST-1e,18,False,0,0,0,0,0,Hamak,Cumpting,True,False
+3683,2,Earth,True,C,122,left,TRAPPIST-1e,13,False,0,0,0,0,0,Hamakan,Cumpting,True,False
+3684,1,Earth,True,G,602,right,TRAPPIST-1e,49,False,0,0,0,0,0,Lynnee,Garnettiz,True,False
+3696,1,Mars,True,F,765,left,TRAPPIST-1e,27,False,0,0,0,0,0,Oale,Chen,True,False
+3701,1,Earth,True,D,125,left,TRAPPIST-1e,30,False,0,0,0,0,0,Anchib,Horbox,True,False
+3701,3,Earth,True,D,125,left,TRAPPIST-1e,48,False,0,0,0,0,0,Hekaton,Horbox,True,False
+3712,3,Earth,True,G,606,right,TRAPPIST-1e,0,False,0,0,0,0,0,Candra,Blacks,True,False
+3712,5,Earth,True,G,606,right,PSO J318,9,False,0,0,0,0,0,Paulah,Blacks,True,False
+3717,2,Earth,True,G,607,right,TRAPPIST-1e,30,False,0,0,0,0,0,Evendy,Larlowelley,True,False
+3718,1,Mars,True,F,703,right,TRAPPIST-1e,21,False,0,0,0,0,0,Anams,Quith,True,False
+3720,1,Mars,True,F,705,right,TRAPPIST-1e,32,False,0,0,0,0,0,Bakix,Purte,True,False
+3720,3,Mars,True,F,705,right,TRAPPIST-1e,19,False,0,0,0,0,0,Oakes,Purte,True,False
+3725,1,Earth,True,G,610,right,PSO J318,18,False,0,0,0,0,0,Candyn,Richan,True,False
+3731,1,Earth,True,G,613,right,PSO J318,13,False,0,0,0,0,0,Moniey,Bryangton,True,False
+3746,3,Earth,True,G,609,left,TRAPPIST-1e,35,False,0,0,0,0,0,Tonnie,Belley,True,False
+3746,4,Earth,True,G,609,left,TRAPPIST-1e,0,False,0,0,0,0,0,Natha,Belley,True,False
+3764,1,Earth,True,G,614,left,TRAPPIST-1e,28,False,0,0,0,0,0,Leenny,Moodmandez,True,False
+3764,2,Earth,True,G,614,left,TRAPPIST-1e,5,False,0,0,0,0,0,Lan,Moodmandez,True,False
+3766,1,Earth,True,D,126,left,TRAPPIST-1e,22,False,0,0,0,0,0,Eltar,Stpingepid,True,False
+3766,2,Earth,True,D,126,left,TRAPPIST-1e,14,False,0,0,0,0,0,Saleh,Stpingepid,True,False
+3792,1,Earth,True,G,621,right,TRAPPIST-1e,50,False,0,0,0,0,0,Natald,Maynardner,True,False
+3794,1,Earth,True,G,621,left,PSO J318,15,False,0,0,0,0,0,Judya,Alshipson,True,False
+3806,1,Earth,True,G,623,left,PSO J318,16,False,0,0,0,0,0,Thondy,Logannon,True,False
+3813,1,Earth,True,G,625,left,TRAPPIST-1e,18,False,0,0,0,0,0,Sethew,Perkings,True,False
+3834,1,Earth,True,G,628,right,PSO J318,18,False,0,0,0,0,0,Luison,Savaraldez,True,False
+3855,1,Mars,True,E,229,left,PSO J318,62,False,0,0,0,0,0,Lers,Brele,True,False
+3858,1,Earth,True,E,231,left,TRAPPIST-1e,48,False,0,0,0,0,0,Naosura,Sciatberit,True,False
+3858,2,Earth,True,E,231,left,TRAPPIST-1e,16,False,0,0,0,0,0,Furudah,Sciatberit,True,False
+3859,1,Mars,True,F,727,right,TRAPPIST-1e,25,False,0,0,0,0,0,Cole,Shcad,True,False
+3865,1,Earth,True,G,629,right,PSO J318,42,False,0,0,0,0,0,Raque,Daughtson,True,False
+3869,1,Mars,True,E,257,right,TRAPPIST-1e,50,False,0,0,0,0,0,Prie,Curt,True,False
+3876,1,Earth,True,C,138,right,TRAPPIST-1e,66,False,0,0,0,0,0,Sinon,Inghtal,True,False
+3892,1,Earth,True,G,634,left,TRAPPIST-1e,25,False,0,0,0,0,0,Cliney,Gletonerson,True,False
+3902,1,Mars,True,D,127,right,TRAPPIST-1e,19,False,0,0,0,0,0,Chies,Spane,True,False
+3905,1,Earth,True,G,638,right,PSO J318,17,False,0,0,0,0,0,Aarone,Patrichane,True,False
+3910,1,Earth,True,G,639,left,PSO J318,15,False,0,0,0,0,0,Antony,Shephendery,True,False
+3934,1,Mars,True,F,741,right,TRAPPIST-1e,17,False,0,0,0,0,0,Flakes,Onpie,True,False
+3943,2,Earth,True,G,646,right,TRAPPIST-1e,20,False,0,0,0,0,0,Feline,Colomonson,True,False
+3953,1,Earth,True,G,645,left,TRAPPIST-1e,31,False,0,0,0,0,0,Sandie,Clinantones,True,False
+3989,1,Earth,True,G,655,right,TRAPPIST-1e,2,False,0,0,0,0,0,Tiney,Hopperett,True,False
+4007,1,Earth,False,A,34,left,Cancri e,52,False,0,10,0,178,2195,Sarich,Fictful,True,False
+4011,1,Earth,False,A,45,right,Cancri e,49,False,0,3227,0,503,123,Alraino,Drivery,True,False
+4012,2,Earth,True,B,153,right,TRAPPIST-1e,28,False,0,0,0,0,0,Dscheat,Sandul,True,False
+4015,1,Mars,True,F,831,left,TRAPPIST-1e,31,False,0,0,0,0,0,Tors,Stie,True,False
+4029,1,Mars,True,F,763,right,TRAPPIST-1e,35,False,0,0,0,0,0,Goats,Kidne,True,False
+4041,1,Earth,True,G,665,right,TRAPPIST-1e,29,False,0,0,0,0,0,Jimen,Bardson,True,False
+4048,2,Mars,True,F,835,left,TRAPPIST-1e,19,False,0,0,0,0,0,Cherry,Berle,True,False
+4051,1,Earth,True,G,667,right,TRAPPIST-1e,19,False,0,0,0,0,0,Sta,Corman,True,False
+4054,1,Earth,True,D,137,left,TRAPPIST-1e,47,False,0,0,0,0,0,Mizarf,Blentrary,True,False
+4070,1,Earth,True,B,156,right,TRAPPIST-1e,22,False,0,0,0,0,0,Maiah,Haftent,True,False
+4073,2,Earth,True,G,672,right,TRAPPIST-1e,47,False,0,0,0,0,0,Tricky,Sweene,True,False
+4086,2,Earth,True,G,673,right,TRAPPIST-1e,39,False,0,0,0,0,0,Lorian,Hewson,True,False
+4092,1,Earth,True,G,670,left,PSO J318,31,False,0,0,0,0,0,Janne,Blancoy,True,False
+4124,1,Earth,True,G,676,left,PSO J318,20,False,0,0,0,0,0,Joelan,Canton,True,False
+4133,1,Mars,True,F,848,left,TRAPPIST-1e,48,False,0,0,0,0,0,Blesh,Batte,True,False
+4133,2,Mars,True,F,848,left,TRAPPIST-1e,58,False,0,0,0,0,0,Weers,Batte,True,False
+4148,1,Earth,True,G,681,left,TRAPPIST-1e,53,False,0,0,0,0,0,Rice,Jarvey,True,False
+4162,1,Earth,True,G,682,right,TRAPPIST-1e,27,False,0,0,0,0,0,Carlie,Leeves,True,False
+4164,1,Earth,True,B,131,left,TRAPPIST-1e,29,False,0,0,0,0,0,Lesat,Aloquinght,True,False
+4180,1,Earth,True,B,162,right,TRAPPIST-1e,42,False,0,0,0,0,0,Misaleh,Fatted,True,False
+4193,1,Earth,True,G,690,left,PSO J318,22,False,0,0,0,0,0,Jaye,Josesh,True,False
+4198,1,Earth,True,E,274,right,TRAPPIST-1e,46,False,0,0,0,0,0,Alarkab,Preeldy,True,False
+4202,1,Mars,True,F,788,right,TRAPPIST-1e,26,False,0,0,0,0,0,Ritars,Nate,True,False
+4227,1,Earth,True,G,693,right,TRAPPIST-1e,37,False,0,0,230,0,0,Celis,Garzaley,True,False
+4235,2,Earth,True,G,694,right,TRAPPIST-1e,35,False,0,0,0,0,400,Elanie,Mosepherry,True,False
+4236,2,Mars,True,F,874,left,TRAPPIST-1e,12,False,0,0,0,0,0,Strish,Purte,True,False
+4247,1,Earth,True,F,878,left,TRAPPIST-1e,13,False,0,0,0,0,0,unknown,unknown,True,False
+4250,1,Earth,True,G,695,left,TRAPPIST-1e,25,False,0,0,0,0,0,Jillie,Beckeetter,True,False
+4268,1,Mars,True,F,798,right,TRAPPIST-1e,13,False,0,0,0,0,0,Toate,Bancy,True,False
+4268,2,Mars,True,F,798,right,TRAPPIST-1e,39,False,0,0,0,0,0,Treynx,Bancy,True,False
+4284,1,Mars,True,F,887,left,TRAPPIST-1e,62,False,0,0,0,0,0,unknown,unknown,True,False
+4286,3,Earth,True,G,704,left,TRAPPIST-1e,38,False,0,0,0,0,0,Harlen,Hartley,True,False
+4298,2,Mars,True,F,892,left,TRAPPIST-1e,11,False,0,0,0,0,0,Cheeet,Kha,True,False
+4298,3,Mars,True,F,892,left,TRAPPIST-1e,69,False,0,0,0,0,0,Nutch,Kha,True,False
+4307,1,Mars,True,F,806,right,TRAPPIST-1e,36,False,0,0,0,0,0,Cord,Hooff,True,False
+4308,1,Earth,True,G,708,left,TRAPPIST-1e,17,False,0,0,0,0,0,Ianya,Booness,True,False
+4321,1,Mars,True,F,809,right,TRAPPIST-1e,34,False,0,0,0,0,0,Hoce,Ecate,True,False
+4328,1,Earth,True,G,714,left,TRAPPIST-1e,16,False,0,0,0,0,0,Elene,Larks,True,False
+4331,1,Earth,True,G,715,left,TRAPPIST-1e,21,False,0,0,0,0,0,Evendy,Buchansen,True,False
+4355,1,Earth,True,G,719,left,TRAPPIST-1e,22,False,0,0,0,0,0,Carold,Maystuarey,True,False
+4377,1,Earth,True,G,711,right,TRAPPIST-1e,29,False,0,0,0,0,0,Hanna,Colomonson,True,False
+4377,3,Earth,True,G,711,right,TRAPPIST-1e,0,False,0,0,0,0,0,Penne,Colomonson,True,False
+4378,2,Earth,False,A,64,left,Cancri e,26,True,0,7596,0,5928,681,Kraban,Glogry,True,False
+4379,1,Earth,True,G,712,right,TRAPPIST-1e,19,False,0,0,0,0,0,Sonnie,Blange,True,False
+4385,2,Earth,True,G,713,right,TRAPPIST-1e,25,False,0,0,0,0,0,Healle,Tranklinay,True,False
+4417,1,Mars,True,F,834,right,TRAPPIST-1e,20,False,0,0,0,0,0,Colatz,Welte,True,False
+4439,1,Mars,True,E,289,right,TRAPPIST-1e,54,False,0,0,0,0,0,Cranch,Cooki,True,False
+4454,1,Earth,True,C,164,right,TRAPPIST-1e,57,False,0,0,0,0,0,Zosmar,Asolipery,True,False
+4455,3,Earth,True,G,731,left,TRAPPIST-1e,51,False,0,0,0,0,0,Belly,Rossey,True,False
+4458,1,Earth,True,G,732,left,TRAPPIST-1e,16,False,0,0,0,0,0,Therry,Estevesters,True,False
+4468,1,Earth,True,G,729,right,TRAPPIST-1e,43,False,0,0,0,0,0,Eila,Clinantones,True,False
+4499,1,Earth,True,G,738,left,TRAPPIST-1e,21,False,0,0,0,0,0,Troya,Hartley,True,False
+4523,1,Earth,True,G,737,right,TRAPPIST-1e,0,False,0,0,0,0,0,Heremy,Bushallert,True,False
+4523,2,Earth,True,G,737,right,TRAPPIST-1e,34,False,0,0,0,0,0,Stace,Bushallert,True,False
+4523,5,Earth,True,G,737,right,TRAPPIST-1e,0,False,0,0,0,0,0,Des,Bushallert,True,False
+4525,1,Earth,False,A,56,right,Cancri e,27,False,0,2817,0,415,4111,Enib,Brakeded,True,False
+4536,1,Earth,False,A,41,left,Cancri e,33,False,5,2799,0,3439,6,Minopus,Cracul,True,False
+4540,1,Earth,True,G,741,right,TRAPPIST-1e,28,False,0,0,0,0,0,Kimmie,Bartez,True,False
+4548,1,Earth,True,B,179,right,TRAPPIST-1e,22,False,0,0,0,0,0,Pherkab,Covetive,True,False
+4551,4,Earth,True,C,166,right,TRAPPIST-1e,44,False,0,0,0,500,0,Celeon,Dedentive,True,False
+4579,1,Earth,True,G,747,right,TRAPPIST-1e,23,False,0,0,0,0,0,Dondy,Hopez,True,False
+4582,5,Earth,True,G,748,right,TRAPPIST-1e,16,False,0,0,0,0,0,Bonne,Barris,True,False
+4583,1,Mars,True,F,861,right,TRAPPIST-1e,50,False,0,0,0,0,0,Lish,Parte,True,False
+4583,2,Mars,True,F,861,right,TRAPPIST-1e,5,False,0,0,0,0,0,Ork,Parte,True,False
+4599,1,Earth,True,G,752,right,TRAPPIST-1e,26,False,0,0,0,0,0,Kirky,Pottley,True,False
+4600,1,Earth,True,G,749,left,PSO J318,17,False,0,0,0,0,0,Fredy,Pollarkeeks,True,False
+4600,2,Earth,True,G,749,left,TRAPPIST-1e,43,False,0,0,0,0,0,Donnie,Pollarkeeks,True,False
+4639,5,Earth,True,C,177,right,TRAPPIST-1e,33,False,0,0,0,0,0,Adharan,Clugeammy,True,False
+4647,1,Earth,True,G,761,right,TRAPPIST-1e,34,False,0,0,0,0,0,Estina,Englence,True,False
+4669,1,Earth,True,B,185,right,TRAPPIST-1e,37,False,0,0,0,0,0,Ankaan,Trakery,True,False
+4682,1,Earth,True,G,767,right,TRAPPIST-1e,43,False,0,0,0,0,0,Gracey,Dotsondez,True,False
+4683,1,Mars,True,F,953,left,TRAPPIST-1e,38,False,0,0,0,0,0,Honjay,Sacke,True,False
+4685,1,Mars,True,F,879,right,TRAPPIST-1e,18,False,0,0,0,0,0,Orz,Napie,True,False
+4697,1,Mars,True,F,884,right,TRAPPIST-1e,25,False,0,0,0,0,0,Aard,Kraie,True,False
+4701,3,Earth,True,B,187,right,TRAPPIST-1e,38,False,250,0,0,0,0,Mediton,Dedinder,True,False
+4701,4,Earth,True,B,187,right,TRAPPIST-1e,25,False,0,0,230,0,0,Naosura,Dedinder,True,False
+4702,1,Earth,True,G,770,right,PSO J318,17,False,0,0,0,0,0,Fayen,Micknightt,True,False
+4703,1,Earth,True,C,184,right,TRAPPIST-1e,24,False,0,0,0,0,0,Mesonon,Headmish,True,False
+4724,1,Earth,True,D,157,left,TRAPPIST-1e,26,False,0,0,0,0,0,Hadaron,Sterve,True,False
+4731,1,Earth,True,G,768,left,TRAPPIST-1e,22,False,0,0,0,0,0,Allyn,Farmonrada,True,False
+4736,1,Mars,True,F,892,right,TRAPPIST-1e,33,False,0,0,0,0,0,Mocake,Nate,True,False
+4740,1,Earth,True,G,774,right,TRAPPIST-1e,16,False,0,0,230,0,0,Trice,Valey,True,False
+4745,1,Earth,True,G,769,left,TRAPPIST-1e,16,False,0,0,0,0,0,Camie,Willynnedy,True,False
+4747,1,Earth,True,D,148,right,TRAPPIST-1e,43,False,0,0,0,0,0,Mesarga,Ingascomet,True,False
+4761,2,Earth,True,G,770,left,TRAPPIST-1e,17,False,0,0,0,0,0,Gerry,Youngrayes,True,False
+4765,1,Earth,True,G,771,left,TRAPPIST-1e,1,False,0,0,0,0,0,Karlie,Santry,True,False
+4766,1,Mars,True,F,899,right,TRAPPIST-1e,24,False,0,0,0,0,0,Tundsh,Parte,True,False
+4768,2,Earth,True,D,158,left,TRAPPIST-1e,26,False,0,0,0,0,0,Phernar,Fuleng,True,False
+4776,2,Mars,True,E,297,left,TRAPPIST-1e,23,False,0,0,0,0,0,Batses,Spien,True,False
+4776,3,Mars,True,F,973,left,TRAPPIST-1e,19,False,0,0,0,0,0,Dous,Buthe,True,False
+4789,1,Mars,True,E,298,left,TRAPPIST-1e,15,False,0,0,0,0,0,Allota,Sad,True,False
+4802,1,Earth,True,G,774,left,TRAPPIST-1e,0,False,0,0,0,0,0,Mabley,Lambucketty,True,False
+4811,1,Earth,True,G,787,right,PSO J318,39,False,0,0,0,0,0,Colly,Hickett,True,False
+4812,1,Earth,True,E,300,left,TRAPPIST-1e,33,False,0,0,0,0,0,Batenar,Sageng,True,False
+4825,1,Mars,True,F,910,right,TRAPPIST-1e,18,False,0,0,0,0,0,Beal,Pephe,True,False
+4833,1,Earth,False,A,59,right,Cancri e,27,True,0,273,0,2597,4093,Aino,Meroliss,True,False
+4834,1,Earth,True,G,790,right,TRAPPIST-1e,18,False,0,0,0,0,0,Adanne,Simonddler,True,False
+4849,1,Mars,True,F,987,left,TRAPPIST-1e,22,False,0,0,0,0,0,Donut,Sione,True,False
+4852,1,Earth,True,G,780,left,PSO J318,20,False,0,0,0,0,0,Kendre,Savaraldez,True,False
+4854,1,Mars,True,F,919,right,TRAPPIST-1e,23,False,0,0,0,0,0,Sugark,Vlart,True,False
+4855,1,Earth,True,G,781,left,PSO J318,23,False,0,0,0,0,0,Rayley,Cartyernan,True,False
+4855,2,Earth,True,G,781,left,TRAPPIST-1e,21,False,0,0,230,0,0,Idary,Cartyernan,True,False
+4859,1,Earth,True,G,793,right,TRAPPIST-1e,19,False,0,0,0,0,0,Claura,Brenney,True,False
+4894,1,Earth,True,G,798,right,TRAPPIST-1e,16,False,0,0,0,0,0,Laude,Guerson,True,False
+4907,1,Earth,True,G,801,right,TRAPPIST-1e,17,False,0,0,0,0,0,Eliana,Estron,True,False
+4935,2,Earth,True,G,796,left,PSO J318,36,False,0,0,0,0,0,Bethew,Whitneyes,True,False
+4949,1,Earth,True,C,154,left,TRAPPIST-1e,32,True,0,0,0,0,0,Astrark,Amincrerus,True,False
+4959,1,Mars,True,F,940,right,TRAPPIST-1e,69,False,0,0,0,0,0,Donch,Flate,True,False
+4962,1,Mars,True,F,1012,left,TRAPPIST-1e,61,False,0,0,0,0,0,Naros,Start,True,False
+4966,2,Earth,True,B,197,right,TRAPPIST-1e,24,False,0,0,0,0,0,Alark,Slable,True,False
+4968,1,Earth,True,G,801,left,TRAPPIST-1e,48,False,0,0,0,0,0,Haryn,Simmonders,True,False
+4971,1,Earth,True,G,812,right,PSO J318,18,False,0,0,0,0,0,Lillen,Contrevins,True,False
+4982,1,Earth,True,G,815,right,TRAPPIST-1e,24,False,0,0,0,0,0,Wenise,Armstromez,True,False
+4984,2,Earth,True,F,947,right,PSO J318,21,False,690,0,0,49,7,Annard,Baldson,True,False
+4985,1,Mars,True,F,948,right,TRAPPIST-1e,25,False,0,0,0,0,0,Grawk,Welte,True,False
+4988,1,Earth,True,B,163,left,TRAPPIST-1e,49,False,0,0,0,0,0,Alhaino,Suartforly,True,False
+5029,2,Earth,True,B,168,left,TRAPPIST-1e,26,False,0,0,0,0,0,Hallah,Derterval,True,False
+5031,1,Earth,False,A,45,left,Cancri e,21,False,0,438,0,0,2175,Ranan,Seadler,True,False
+5038,1,Mars,False,A,80,left,Cancri e,29,False,465,0,169,102,2104,Bers,Sun,True,False
+5038,2,Mars,True,F,1025,left,TRAPPIST-1e,11,False,0,0,0,0,0,Cocors,Sun,True,False
+5043,1,Mars,True,F,1027,left,TRAPPIST-1e,31,False,0,0,0,0,0,Gice,Lette,True,False
+5045,1,Mars,True,F,960,right,TRAPPIST-1e,32,False,0,0,0,0,0,Ots,Tité,True,False
+5046,1,Earth,True,G,827,right,TRAPPIST-1e,22,False,0,0,0,0,0,Lonnis,Spencervan,True,False
+5047,1,Earth,True,G,828,right,PSO J318,38,False,0,0,0,0,0,Shawne,Edwartizman,True,False
+5055,1,Earth,True,G,815,left,TRAPPIST-1e,38,False,0,0,0,0,0,Fayen,Hodgesss,True,False
+5079,1,Mars,True,F,968,right,TRAPPIST-1e,20,False,0,0,0,0,0,Froops,Dal,True,False
+5086,1,Mars,True,F,971,right,TRAPPIST-1e,58,False,0,0,0,0,0,Mon,Fort,True,False
+5094,1,Earth,True,G,822,left,PSO J318,19,False,0,0,0,0,0,Idarry,Rilley,True,False
+5100,1,Mars,True,F,977,right,TRAPPIST-1e,50,False,0,0,0,0,0,Gone,Cle,True,False
+5114,1,Mars,True,F,979,right,TRAPPIST-1e,44,False,0,0,0,0,0,Waffes,Chnie,True,False
+5121,1,Earth,True,G,826,left,TRAPPIST-1e,18,False,0,0,19,746,5,Ireen,Hermanapp,True,False
+5141,1,Mars,True,F,1049,left,TRAPPIST-1e,20,False,0,0,0,0,0,Anack,Gene,True,False
+5150,1,Mars,True,F,987,right,TRAPPIST-1e,39,False,0,0,0,0,0,Chones,Bush,True,False
+5153,1,Earth,True,G,843,right,TRAPPIST-1e,20,False,0,0,0,0,0,Sadine,Hinetthews,True,False
+5189,1,Earth,False,A,63,right,Cancri e,44,False,0,2175,0,25,400,Alathim,Dratembid,True,False
+5219,1,Mars,True,F,1001,right,TRAPPIST-1e,32,False,0,0,0,0,0,Sugars,Minen,True,False
+5222,1,Earth,True,G,847,right,TRAPPIST-1e,50,False,0,0,0,0,0,Delody,Dunnisey,True,False
+5237,1,Mars,True,F,1068,left,TRAPPIST-1e,14,False,0,0,0,0,0,Caks,Cooki,True,False
+5241,2,Earth,True,G,846,left,PSO J318,16,False,0,0,0,0,0,Walley,Logannon,True,False
+5245,1,Earth,False,A,48,left,Cancri e,25,False,0,2386,0,417,425,Okulus,Disheract,True,False
+5267,2,Earth,True,G,851,left,TRAPPIST-1e,18,False,0,0,0,0,0,Lerome,Monsoney,True,False
+5284,1,Earth,True,E,328,left,TRAPPIST-1e,52,False,0,0,0,0,0,Batares,Siveduced,True,False
+5285,1,Earth,True,C,164,left,TRAPPIST-1e,47,False,0,0,0,0,0,Dyonif,Motive,True,False
+5308,2,Earth,True,G,865,right,TRAPPIST-1e,26,False,0,0,0,0,0,Kene,Mccarveymon,True,False
+5309,1,Earth,True,C,165,left,TRAPPIST-1e,42,False,0,0,0,0,0,Brachir,Steroot,True,False
+5311,1,Earth,True,G,858,left,TRAPPIST-1e,31,False,0,0,0,0,0,Evey,Tranciams,True,False
+5318,1,Earth,True,G,859,left,TRAPPIST-1e,37,False,0,0,0,0,0,Eliana,Coopelandez,True,False
+5324,1,Earth,True,G,860,left,TRAPPIST-1e,44,False,0,0,0,0,0,Racily,Mcbriguez,True,False
+5328,1,Earth,True,C,166,left,TRAPPIST-1e,36,False,0,0,0,0,0,Achib,Dischod,True,False
+5329,2,Earth,True,G,861,left,PSO J318,1,False,0,0,0,0,0,Jamela,Mclardson,True,False
+5335,3,Earth,False,A,49,left,Cancri e,33,False,4781,4132,0,4,39,Steron,Pronfraked,True,False
+5335,4,Earth,False,A,49,left,Cancri e,25,False,13,3209,0,24,330,Edark,Moring,True,False
+5349,1,Earth,True,G,863,left,PSO J318,23,False,0,0,0,0,0,Doria,Wolferguson,True,False
+5352,1,Earth,True,G,864,left,TRAPPIST-1e,13,False,0,0,0,0,0,Pennie,Foledges,True,False
+5357,1,Earth,True,B,184,left,TRAPPIST-1e,32,False,0,0,0,0,0,Atrino,Unpasine,True,False
+5357,2,Earth,True,B,184,left,TRAPPIST-1e,17,False,0,0,0,0,0,Jihalla,Diouselt,True,False
+5371,1,Mars,True,F,1027,right,TRAPPIST-1e,8,False,0,0,0,0,0,Coobix,Apple,True,False
+5371,3,Mars,True,F,1027,right,TRAPPIST-1e,30,False,0,0,0,0,0,Cats,Apple,True,False
+5376,2,Earth,True,C,171,left,TRAPPIST-1e,38,False,0,0,0,0,0,Cherrak,Fantlaxed,True,False
+5386,1,Earth,True,G,868,left,TRAPPIST-1e,18,False,0,0,0,0,0,Sandie,Quinnerettt,True,False
+5398,1,Mars,True,F,1110,left,TRAPPIST-1e,24,False,0,0,0,0,0,Boats,Soun,True,False
+5407,1,Mars,True,E,346,right,TRAPPIST-1e,42,False,0,0,0,0,0,Weaffs,Datty,True,False
+5481,1,Earth,True,B,209,right,TRAPPIST-1e,33,True,0,0,0,0,0,Muontak,Susent,True,False
+5495,1,Mars,True,F,1138,left,TRAPPIST-1e,39,False,0,0,0,0,0,Clow,Blité,True,False
+5498,1,Earth,True,G,883,left,TRAPPIST-1e,29,False,0,0,0,0,0,Charly,Hanghanson,True,False
+5498,2,Earth,True,G,883,left,TRAPPIST-1e,27,False,0,0,0,0,0,Mael,Hanghanson,True,False
+5505,2,Earth,True,G,886,right,TRAPPIST-1e,45,False,0,0,0,0,0,Holey,Whiters,True,False
+5513,1,Earth,True,G,888,right,PSO J318,18,False,0,0,0,0,0,Gracia,Mayods,True,False
+5513,2,Earth,True,G,888,right,TRAPPIST-1e,0,False,0,0,0,0,0,Min,Mayods,True,False
+5518,1,Earth,False,A,68,right,Cancri e,56,False,166,1006,0,1729,16,Hadaton,Fuelrad,True,False
+5547,1,Earth,True,G,887,left,TRAPPIST-1e,18,False,0,0,0,0,0,Etha,Alvasquez,True,False
+5549,1,Earth,True,D,177,left,TRAPPIST-1e,23,False,0,0,0,0,0,Steron,Sloweber,True,False
+5553,1,Mars,True,F,1151,left,TRAPPIST-1e,44,False,0,0,0,0,0,Kokrus,Traie,True,False
+5554,1,Earth,True,G,889,left,TRAPPIST-1e,21,False,0,0,230,0,0,Jarena,Mayder,True,False
+5562,1,Earth,True,D,169,right,TRAPPIST-1e,18,False,0,0,0,0,0,unknown,unknown,True,False
+5570,1,Earth,True,G,899,right,PSO J318,33,False,0,0,0,0,0,Bettie,Deckley,True,False
+5577,1,Earth,True,G,901,right,PSO J318,10,False,0,0,0,0,0,Thery,Briggston,True,False
+5577,3,Earth,True,G,901,right,TRAPPIST-1e,0,False,0,0,0,0,0,Ivaney,Englence,True,False
+5577,4,Earth,True,G,901,right,TRAPPIST-1e,0,False,0,0,0,0,0,unknown,unknown,True,False
+5577,5,Earth,True,G,901,right,TRAPPIST-1e,4,False,0,0,0,0,0,Tyle,Briggston,True,False
+5579,1,Earth,True,B,189,left,TRAPPIST-1e,48,False,0,0,0,0,0,Tabus,Sivent,True,False
+5584,1,Mars,True,F,1157,left,TRAPPIST-1e,27,False,0,0,0,0,0,Pioss,Lacke,True,False
+5588,2,Mars,True,F,1066,right,TRAPPIST-1e,47,False,0,0,0,0,0,Cobix,Cola,True,False
+5588,3,Mars,True,F,1066,right,TRAPPIST-1e,16,False,0,0,0,0,0,Cocors,Cola,True,False
+5588,5,Mars,True,F,1066,right,TRAPPIST-1e,31,False,0,0,0,0,0,Fes,Cola,True,False
+5590,1,Mars,True,E,362,right,TRAPPIST-1e,28,False,0,0,0,0,0,Lychex,Cread,True,False
+5600,1,Earth,True,G,896,left,PSO J318,18,False,0,0,0,0,0,Vick,Bartines,True,False
+5607,1,Mars,True,E,366,right,TRAPPIST-1e,33,False,0,0,0,0,0,Blat,Bush,True,False
+5612,1,Earth,True,G,905,right,TRAPPIST-1e,28,False,0,0,0,0,0,Adria,Hoppernardy,True,False
+5624,1,Earth,True,G,910,right,TRAPPIST-1e,37,False,0,0,0,0,400,unknown,unknown,True,False
+5632,1,Earth,True,C,177,left,TRAPPIST-1e,44,False,0,0,0,0,0,Altairk,Ranicood,True,False
+5638,1,Earth,True,G,912,right,TRAPPIST-1e,20,False,0,0,0,0,0,Racily,Stannondez,True,False
+5641,1,Earth,True,G,914,right,TRAPPIST-1e,18,False,0,0,0,0,0,Fayel,Gallard,True,False
+5657,1,Earth,False,A,70,right,Cancri e,26,False,0,0,6,2567,2273,Ranon,Cassiding,True,False
+5664,3,Earth,True,G,917,right,TRAPPIST-1e,2,False,0,0,0,0,0,Tracia,Rochan,True,False
+5668,1,Earth,True,E,369,right,TRAPPIST-1e,30,False,0,0,0,0,0,Marf,Holiabler,True,False
+5669,1,Earth,True,G,918,right,TRAPPIST-1e,20,False,0,0,0,0,0,Tonyn,Mcleandez,True,False
+5670,1,Earth,True,G,919,right,PSO J318,31,False,0,0,0,0,0,Kennie,Rices,True,False
+5672,1,Earth,True,G,908,left,TRAPPIST-1e,13,False,0,0,0,0,0,Maryn,Potthews,True,False
+5678,1,Mars,True,F,1176,left,TRAPPIST-1e,18,False,0,0,0,0,0,Ros,Goone,True,False
+5678,2,Mars,True,E,358,left,TRAPPIST-1e,50,False,0,0,0,0,0,Ritars,Goone,True,False
+5691,1,Mars,True,F,1086,right,TRAPPIST-1e,46,False,0,0,0,0,0,Aard,Backo,True,False
+5694,1,Earth,True,B,191,left,TRAPPIST-1e,25,False,0,0,0,0,0,Winonon,Tionstious,True,False
+5708,1,Earth,True,G,914,left,TRAPPIST-1e,26,False,0,0,0,0,400,Carona,Burraymons,True,False
+5734,1,Mars,True,F,1095,right,TRAPPIST-1e,22,False,0,0,0,0,0,unknown,unknown,True,False
+5759,1,Earth,True,G,935,right,TRAPPIST-1e,41,False,0,0,0,0,0,Shery,Ballocks,True,False
+5766,1,Mars,True,F,1101,right,TRAPPIST-1e,25,False,0,0,0,0,0,Aleys,Ramad,True,False
+5775,1,Mars,True,F,1198,left,TRAPPIST-1e,29,False,0,0,0,0,0,Anes,Opie,True,False
+5782,4,Earth,True,G,939,right,TRAPPIST-1e,50,False,0,0,0,0,0,Melia,Hurchez,True,False
+5787,2,Earth,True,G,929,left,TRAPPIST-1e,14,False,0,0,0,0,0,Robyna,Crayeson,True,False
+5789,2,Earth,True,G,940,right,PSO J318,34,False,0,0,0,0,0,Rona,Polliamposs,True,False
+5803,1,Earth,True,G,932,left,TRAPPIST-1e,22,False,0,0,0,0,0,Regana,Belley,True,False
+5841,2,Mars,True,F,1207,left,TRAPPIST-1e,3,False,0,0,0,0,0,Halesh,Blane,True,False
+5841,3,Mars,True,F,1207,left,TRAPPIST-1e,18,False,0,0,0,150,0,Flams,Blane,True,False
+5845,1,Earth,True,G,947,left,PSO J318,44,False,0,0,0,0,0,unknown,unknown,True,False
+5870,1,Earth,True,G,951,left,TRAPPIST-1e,20,False,0,0,0,0,0,Maurie,Roachez,True,False
+5873,2,Earth,True,G,952,left,TRAPPIST-1e,37,False,0,0,0,0,0,Kenda,Acobsond,True,False
+5881,1,Earth,True,B,225,right,TRAPPIST-1e,48,False,0,0,0,0,0,Dabik,Covale,True,False
+5883,1,Earth,True,B,200,left,TRAPPIST-1e,33,False,0,0,0,0,0,Castab,Ineedeve,True,False
+5904,1,Mars,True,F,1125,right,TRAPPIST-1e,35,False,0,0,0,0,0,Graisp,Sidie,True,False
+5911,6,Earth,True,G,962,right,PSO J318,10,False,0,0,0,0,0,Benny,Mcgowaymond,True,False
+5914,1,Earth,True,G,964,right,TRAPPIST-1e,19,False,0,0,0,0,0,Teremy,Vandez,True,False
+5917,1,Earth,True,G,965,right,PSO J318,19,False,250,0,0,0,0,unknown,unknown,True,False
+5918,1,Earth,True,G,958,left,TRAPPIST-1e,46,False,0,0,0,0,0,Blancy,Moongton,True,False
+5926,1,Earth,True,G,961,left,TRAPPIST-1e,25,False,0,0,0,0,0,Craine,Staffersby,True,False
+5936,1,Earth,True,C,184,left,TRAPPIST-1e,24,False,0,0,0,0,0,Kleeiak,Antcal,True,False
+5942,1,Earth,True,B,202,left,TRAPPIST-1e,16,False,0,0,0,0,0,Muontak,Shoeweely,True,False
+5964,2,Earth,True,B,228,right,TRAPPIST-1e,49,True,0,0,0,0,400,Kabih,Fuelddid,True,False
+5996,1,Earth,True,G,976,right,TRAPPIST-1e,47,False,0,0,0,0,0,Enrie,Hortez,True,False
+5997,2,Mars,True,F,1142,right,TRAPPIST-1e,46,False,0,0,0,0,0,Parney,Fatte,True,False
+6002,1,Mars,True,E,382,left,TRAPPIST-1e,66,False,0,0,0,0,0,Honda,Perta,True,False
+6005,5,Earth,True,G,978,right,TRAPPIST-1e,5,False,0,0,0,0,0,Chael,Dickley,True,False
+6013,1,Earth,True,G,972,left,TRAPPIST-1e,26,False,0,0,0,0,0,Dellia,Hewson,True,False
+6021,1,Earth,True,G,980,right,TRAPPIST-1e,22,False,0,0,0,0,0,Jonald,Vinston,True,False
+6037,1,Earth,True,G,977,left,PSO J318,44,False,0,0,0,0,0,Byront,Bushins,True,False
+6050,1,Mars,True,F,1251,left,TRAPPIST-1e,22,False,0,0,0,0,0,Ops,Boyst,True,False
+6074,2,Mars,True,E,399,right,TRAPPIST-1e,54,False,0,0,0,0,0,Allift,Sidne,True,False
+6079,1,Earth,True,G,986,left,TRAPPIST-1e,18,False,0,0,0,0,0,Charry,Jenson,True,False
+6081,1,Mars,True,F,1256,left,TRAPPIST-1e,69,False,0,0,0,0,0,Ecco,Shpie,True,False
+6081,3,Mars,True,F,1256,left,TRAPPIST-1e,24,False,0,0,0,0,0,Crowls,Knie,True,False
+6089,1,Earth,True,G,990,right,TRAPPIST-1e,26,False,0,0,0,0,0,Ferry,Gainebergan,True,False
+6093,1,Earth,True,G,989,left,TRAPPIST-1e,3,False,0,0,0,0,0,Timmie,Joyneidez,True,False
+6104,1,Mars,True,F,1262,left,TRAPPIST-1e,36,False,0,0,0,0,0,Ducks,Knike,True,False
+6119,1,Mars,True,F,1168,right,TRAPPIST-1e,36,False,0,0,0,0,0,Graven,Cola,True,False
+6119,3,Mars,True,F,1168,right,TRAPPIST-1e,17,False,0,0,0,0,0,Cheats,Cola,True,False
+6142,2,Earth,True,E,393,left,TRAPPIST-1e,35,False,0,0,0,0,0,Zosmar,Inkcablel,True,False
+6144,1,Earth,True,G,993,left,TRAPPIST-1e,19,False,0,0,0,0,0,Fany,Chaellerty,True,False
+6151,2,Earth,True,C,190,left,TRAPPIST-1e,22,False,0,0,0,0,0,Mulkes,Hometerval,True,False
+6160,2,Earth,True,G,997,right,TRAPPIST-1e,21,False,0,0,0,0,0,Rena,Hessey,True,False
+6187,1,Mars,True,F,1182,right,TRAPPIST-1e,47,False,0,0,0,0,0,Quan,Bake,True,False
+6188,1,Earth,True,G,1003,left,TRAPPIST-1e,25,False,0,0,0,0,0,Chelly,Llovers,True,False
+6193,1,Mars,True,F,1184,right,TRAPPIST-1e,19,False,250,0,0,0,0,Sesh,Flé,True,False
+6196,1,Earth,True,B,210,left,TRAPPIST-1e,63,False,0,0,0,0,0,Solark,Carillly,True,False
+6197,1,Earth,True,G,1005,left,PSO J318,24,False,0,0,0,0,0,Jodip,Perrerojass,True,False
+6209,1,Earth,False,A,73,right,Cancri e,47,False,0,13,0,28,10587,Ionium,Cylisteful,True,False
+6210,1,Earth,True,C,233,right,TRAPPIST-1e,32,False,0,0,0,500,0,Instab,Assefle,True,False
+6212,1,Earth,True,G,1006,left,TRAPPIST-1e,33,False,0,0,0,0,0,Ralda,Gardonadox,True,False
+6217,1,Earth,True,B,240,right,TRAPPIST-1e,20,False,0,0,0,0,0,Elebara,Burcaling,True,False
+6221,1,Mars,True,F,1189,right,TRAPPIST-1e,38,False,0,0,0,0,0,Clek,Chkie,True,False
+6231,1,Earth,True,G,1008,right,TRAPPIST-1e,0,False,0,0,0,0,0,Rayle,Hultz,True,False
+6231,2,Earth,True,G,1008,right,TRAPPIST-1e,23,False,0,0,0,0,0,Pamont,Hultz,True,False
+6233,3,Earth,True,G,1009,right,PSO J318,15,False,0,0,0,0,0,Evey,Crayeson,True,False
+6235,1,Earth,True,B,211,left,TRAPPIST-1e,31,False,0,0,0,0,0,Menkard,Apedishaft,True,False
+6240,1,Earth,True,E,415,right,TRAPPIST-1e,49,False,0,0,0,500,0,Hocops,Paska,True,False
+6242,1,Earth,True,B,242,right,TRAPPIST-1e,41,False,0,0,0,0,0,Luxonon,Sofraten,True,False
+6255,1,Earth,True,B,212,left,TRAPPIST-1e,42,False,0,0,0,0,0,Schird,Siccertful,True,False
+6257,1,Earth,True,G,1010,left,TRAPPIST-1e,21,False,0,0,0,0,0,Fanne,Mejiamsey,True,False
+6257,3,Earth,True,G,1010,left,TRAPPIST-1e,0,False,0,0,0,0,0,Vanard,Mejiamsey,True,False
+6261,1,Mars,True,E,400,left,TRAPPIST-1e,42,False,0,0,0,0,0,Gra,Date,True,False
+6261,2,Mars,True,E,400,left,TRAPPIST-1e,16,False,0,0,0,0,0,Toat,Date,True,False
+6267,3,Earth,True,B,214,left,TRAPPIST-1e,34,False,0,0,0,0,0,Fomalik,Dianket,True,False
+6267,6,Earth,True,B,214,left,TRAPPIST-1e,25,False,0,0,0,0,0,Tachbah,Dianket,True,False
+6272,2,Mars,True,F,1298,left,TRAPPIST-1e,37,False,0,0,0,0,0,Kadown,Biba,True,False
+6278,2,Mars,True,F,1204,right,TRAPPIST-1e,21,False,0,0,0,0,0,Llix,Sturt,True,False
+6284,1,Mars,True,F,1300,left,TRAPPIST-1e,33,False,0,0,0,0,0,Eclass,Chcak,True,False
+6288,1,Earth,True,B,246,right,TRAPPIST-1e,40,False,0,0,0,0,0,Giebah,Valing,True,False
+6294,1,Earth,True,G,1021,right,TRAPPIST-1e,22,False,0,0,0,0,0,Faithy,Brenney,True,False
+6298,1,Mars,True,F,1302,left,TRAPPIST-1e,35,False,0,0,0,0,0,Toat,Mity,True,False
+6306,1,Earth,True,G,1022,right,TRAPPIST-1e,44,False,0,0,0,0,0,Chrisa,Brookenson,True,False
+6312,1,Earth,False,A,104,left,Cancri e,56,False,0,2854,25,279,48,Ainkard,Emonater,True,False
+6332,1,Earth,True,G,1021,left,TRAPPIST-1e,35,False,0,0,0,0,0,Dony,Casez,True,False
+6332,3,Earth,True,G,1021,left,TRAPPIST-1e,23,False,0,0,0,0,0,Olliey,Casez,True,False
+6332,5,Earth,True,F,1310,left,TRAPPIST-1e,24,False,250,0,0,0,828,Joana,Casez,True,False
+6332,6,Earth,True,G,1021,left,PSO J318,19,False,0,0,0,0,0,Coren,Casez,True,False
+6332,7,Earth,True,G,1021,left,TRAPPIST-1e,62,False,0,0,0,0,0,Kayne,Casez,True,False
+6337,1,Earth,True,G,1029,right,TRAPPIST-1e,48,False,0,0,0,0,0,Caseye,Vinston,True,False
+6345,1,Mars,True,F,1211,right,TRAPPIST-1e,33,False,0,0,0,0,0,Peefox,Pashe,True,False
+6345,2,Mars,True,F,1211,right,TRAPPIST-1e,33,False,0,0,0,0,0,Con,Pashe,True,False
+6364,1,Earth,True,G,1032,right,TRAPPIST-1e,47,False,0,0,0,0,0,Alvia,Ellahan,True,False
+6377,1,Mars,True,F,1218,right,TRAPPIST-1e,26,False,0,0,0,0,0,Doulls,Pore,True,False
+6383,1,Earth,True,G,1035,right,TRAPPIST-1e,0,False,0,0,0,0,0,unknown,unknown,True,False
+6391,2,Mars,True,F,1326,left,TRAPPIST-1e,59,False,0,0,0,0,0,Gratsp,Chate,True,False
+6392,1,Mars,True,F,1222,right,TRAPPIST-1e,19,False,0,0,0,0,0,Jagles,Dun,True,False
+6393,1,Mars,True,E,406,left,TRAPPIST-1e,16,False,0,0,0,0,0,Craird,Mille,True,False
+6417,1,Mars,True,F,1226,right,TRAPPIST-1e,33,False,0,0,0,0,0,Hocks,Pashe,True,False
+6425,2,Mars,True,E,409,left,TRAPPIST-1e,22,False,0,0,0,0,0,Guans,Gres,True,False
+6427,1,Mars,True,F,1333,left,TRAPPIST-1e,20,False,0,0,0,0,0,Beass,Snoff,True,False
+6440,1,Earth,True,G,1040,left,PSO J318,20,False,0,0,0,0,0,Yolace,Pacerty,True,False
+6465,1,Earth,True,G,1048,right,PSO J318,17,False,0,0,0,0,0,Robyny,Brookenson,True,False
+6469,1,Earth,True,G,1049,right,PSO J318,29,False,0,0,0,0,0,Rankie,Sykess,True,False
+6483,1,Mars,True,F,1341,left,TRAPPIST-1e,32,False,0,0,0,0,0,Tax,Ecake,True,False
+6486,1,Earth,True,E,434,right,TRAPPIST-1e,18,False,0,0,0,0,0,Goros,Dindeng,True,False
+6491,3,Earth,True,G,1054,right,TRAPPIST-1e,0,False,0,0,0,0,0,Jeresa,Patteraley,True,False
+6496,1,Earth,True,G,1051,left,TRAPPIST-1e,38,False,0,0,0,0,0,Lynnee,Potterry,True,False
+6499,6,Earth,True,G,1052,left,PSO J318,14,False,0,0,0,0,0,Made,Barnolderg,True,False
+6499,7,Earth,True,G,1052,left,TRAPPIST-1e,37,False,0,0,0,0,0,Helley,Barnolderg,True,False
+6499,8,Earth,True,G,1052,left,PSO J318,6,False,0,0,0,0,0,Eleah,Barnolderg,True,False
+6516,1,Earth,True,C,241,right,TRAPPIST-1e,34,False,0,0,230,0,0,Skatzn,Dynigic,True,False
+6528,1,Earth,True,G,1057,left,PSO J318,39,False,0,0,0,0,0,Louisy,Cardsay,True,False
+6533,1,Earth,True,G,1058,left,TRAPPIST-1e,30,False,0,0,0,500,0,Lolas,Foledges,True,False
+6554,1,Mars,True,E,416,left,TRAPPIST-1e,46,False,0,0,0,0,0,Heersh,Kine,True,False
+6564,2,Earth,True,C,204,left,TRAPPIST-1e,29,False,0,0,0,0,0,Unukath,Perpulial,True,False
+6576,1,Mars,True,F,1368,left,TRAPPIST-1e,20,False,0,0,0,0,0,Cints,Erle,True,False
+6577,3,Earth,True,G,1069,right,TRAPPIST-1e,22,False,0,0,0,0,0,Cline,Haydenzier,True,False
+6579,1,Earth,True,G,1065,left,PSO J318,23,False,0,0,0,0,0,Clard,Buchansen,True,False
+6589,1,Earth,True,E,419,left,TRAPPIST-1e,37,False,0,0,0,0,0,Beide,Oppont,True,False
+6596,2,Mars,True,F,1371,left,TRAPPIST-1e,34,False,2455,0,8,175,0,Hamus,Terte,True,False
+6600,2,Mars,True,E,439,right,TRAPPIST-1e,32,False,881,0,0,9,56,Park,Mele,True,False
+6610,1,Earth,True,G,1068,left,TRAPPIST-1e,25,False,0,0,0,0,0,Lyn,Brookes,True,False
+6612,6,Earth,True,G,1077,right,PSO J318,6,False,0,0,0,0,0,Heryle,Dickley,True,False
+6615,1,Mars,True,F,1376,left,TRAPPIST-1e,24,False,0,0,0,0,0,Bers,Sake,True,False
+6617,1,Earth,True,B,9,left,TRAPPIST-1e,31,False,0,0,0,0,0,Mareson,Timpeed,True,False
+6636,1,Earth,True,G,1080,right,TRAPPIST-1e,13,False,0,0,0,0,0,Idace,Hamcmahon,True,False
+6648,1,Earth,True,G,1076,left,PSO J318,26,False,0,0,0,0,0,Gillie,Kramorry,True,False
+6657,1,Earth,True,G,1078,left,TRAPPIST-1e,27,False,0,0,0,0,0,Guye,Joycerton,True,False
+6658,2,Mars,True,F,1277,right,TRAPPIST-1e,27,False,0,0,0,0,0,Fispot,Curt,True,False
+6677,1,Earth,True,G,1080,left,PSO J318,48,False,0,0,0,0,0,Chery,Woodwinez,True,False
+6678,2,Mars,True,D,201,right,TRAPPIST-1e,15,False,0,0,0,150,0,Prah,Fincy,True,False
+6682,1,Mars,True,F,1389,left,TRAPPIST-1e,26,False,0,0,0,0,0,Railes,Erie,True,False
+6688,1,Earth,True,B,223,left,TRAPPIST-1e,28,False,0,0,0,0,0,Antak,Slavested,True,False
+6690,1,Earth,True,G,1090,right,TRAPPIST-1e,15,False,0,0,0,0,0,Tonnie,Hardsonerry,True,False
+6700,1,Earth,True,G,1086,left,TRAPPIST-1e,34,False,0,0,0,0,0,Carlie,Whiters,True,False
+6701,1,Earth,True,B,257,right,TRAPPIST-1e,27,False,0,0,0,0,0,Zaninon,Rackepery,True,False
+6710,1,Earth,True,G,1093,right,TRAPPIST-1e,21,False,0,0,0,0,0,Blanda,Maynardner,True,False
+6738,2,Mars,True,D,204,right,TRAPPIST-1e,35,False,0,0,0,0,0,Hers,Gooki,True,False
+6743,1,Mars,True,F,1288,right,TRAPPIST-1e,19,False,0,0,0,0,0,Skix,Flate,True,False
+6759,1,Earth,True,G,1096,left,PSO J318,28,False,0,0,0,0,0,Ivaney,Donson,True,False
+6769,1,Mars,True,F,1297,right,TRAPPIST-1e,14,False,0,0,0,0,0,Oareel,Apity,True,False
+6772,1,Earth,True,G,1099,left,TRAPPIST-1e,26,False,0,0,0,0,0,Samie,Beckeetter,True,False
+6783,1,Earth,True,G,1101,left,TRAPPIST-1e,43,False,0,0,0,0,0,Wallyn,Ortinericey,True,False
+6785,1,Earth,True,G,1102,left,TRAPPIST-1e,30,False,0,0,0,0,0,Lesley,Mcfarmerson,True,False
+6793,2,Earth,True,B,228,left,TRAPPIST-1e,17,False,0,0,0,0,0,Branev,Wassing,True,False
+6795,1,Mars,True,E,433,left,TRAPPIST-1e,18,True,988,0,732,356,0,Coobix,Gecre,True,False
+6807,2,Earth,True,G,1106,left,TRAPPIST-1e,26,False,250,0,0,0,0,Maurie,Monsoney,True,False
+6811,1,Earth,True,G,1107,left,PSO J318,41,False,0,0,0,0,0,Lestie,Pottmanley,True,False
+6819,2,Earth,True,G,1106,right,PSO J318,14,False,0,0,0,0,0,Terek,Holson,True,False
+6819,3,Earth,True,G,1106,right,TRAPPIST-1e,3,False,0,0,0,0,0,Dandra,Hamberterry,True,False
+6823,1,Earth,True,G,1107,right,PSO J318,18,False,0,0,0,0,200,Vanley,Woodwin,True,False
+6828,1,Earth,True,G,1110,right,TRAPPIST-1e,35,False,0,0,0,0,0,Sus,Andley,True,False
+6830,1,Earth,True,G,1110,left,PSO J318,19,False,0,0,0,0,0,Brita,Kennetty,True,False
+6835,1,Mars,True,E,453,right,PSO J318,39,False,0,0,0,0,0,Morms,Chpie,True,False
+6838,1,Earth,True,C,217,left,TRAPPIST-1e,3,False,0,0,0,0,0,Alraium,Fasticaly,True,False
+6847,1,Earth,False,A,70,left,Cancri e,48,False,250,996,197,151,4532,Aldush,Gearitte,True,False
+6867,1,Earth,True,F,1312,right,TRAPPIST-1e,33,False,0,0,723,108,115,Justie,Howenters,True,False
+6872,1,Earth,True,G,1114,left,TRAPPIST-1e,27,False,0,0,0,0,0,Camiet,Bonnondry,True,False
+6874,1,Earth,True,G,1117,right,PSO J318,23,False,0,0,0,0,0,Maurie,Hammons,True,False
+6876,3,Earth,True,G,1118,right,TRAPPIST-1e,2,False,0,0,0,0,0,Felice,Greenez,True,False
+6878,1,Mars,True,F,1314,right,TRAPPIST-1e,29,False,0,0,0,0,0,Dynx,Porté,True,False
+6884,1,Earth,True,G,1115,left,TRAPPIST-1e,20,False,0,0,0,0,0,Verly,Kirks,True,False
+6886,1,Earth,True,G,1121,right,PSO J318,16,False,0,0,0,0,0,Meline,Clemondsey,True,False
+6888,2,Earth,True,C,219,left,TRAPPIST-1e,35,False,0,0,0,0,0,Decruxa,Emeliatty,True,False
+6888,3,Earth,True,C,219,left,TRAPPIST-1e,19,False,0,0,0,0,0,Homamin,Turtertive,True,False
+6904,1,Earth,True,G,1116,left,TRAPPIST-1e,20,False,0,0,0,0,0,Harlen,Farleyatton,True,False
+6904,2,Earth,True,G,1116,left,TRAPPIST-1e,27,False,0,0,0,0,0,Debora,Farleyatton,True,False
+6909,1,Earth,True,B,231,left,TRAPPIST-1e,31,False,0,0,0,0,0,Kaffias,Shoeweely,True,False
+6914,1,Earth,True,G,1125,right,TRAPPIST-1e,47,False,0,0,0,0,0,Iree,Romez,True,False
+6916,1,Earth,True,B,232,left,TRAPPIST-1e,58,False,0,0,0,0,0,Gluinol,Wassing,True,False
+6922,1,Earth,True,G,1119,left,PSO J318,35,False,0,0,0,0,0,Harlos,Payner,True,False
+6923,1,Mars,True,F,1434,left,TRAPPIST-1e,38,False,0,0,0,0,0,Cobix,Tecre,True,False
+6933,2,Earth,True,E,442,left,TRAPPIST-1e,27,False,0,0,0,500,0,Gatrix,Imprank,True,False
+6936,3,Mars,True,F,1438,left,TRAPPIST-1e,14,False,0,0,0,0,0,Cindee,Spare,True,False
+6938,1,Earth,True,G,1123,left,TRAPPIST-1e,28,False,0,0,230,0,0,Julin,Reilline,True,False
+6941,1,Earth,True,G,1125,left,TRAPPIST-1e,20,False,0,0,0,0,0,Willey,Mullericer,True,False
+6942,1,Earth,True,G,1132,right,TRAPPIST-1e,41,False,0,0,0,0,0,Aliey,Belley,True,False
+6948,1,Earth,True,G,1133,right,TRAPPIST-1e,29,False,0,0,0,0,0,Wenten,Leton,True,False
+6952,1,Earth,True,C,224,left,TRAPPIST-1e,32,False,0,0,0,0,0,Dyonif,Hautconded,True,False
+6959,3,Earth,True,G,1134,right,PSO J318,0,False,0,0,0,0,0,Stevey,Garzaley,True,False
+6965,1,Mars,True,F,1445,left,TRAPPIST-1e,50,False,250,0,0,0,0,Rooses,Danad,True,False
+6983,1,Mars,True,F,1449,left,TRAPPIST-1e,51,False,0,0,0,0,0,Gray,Colle,True,False
+6986,3,Earth,True,G,1129,left,PSO J318,0,False,0,0,0,0,0,Darrie,Cleman,True,False
+6986,5,Earth,True,G,1129,left,TRAPPIST-1e,27,False,0,0,0,0,0,Jilly,Vantonson,True,False
+6986,8,Earth,True,G,1129,left,TRAPPIST-1e,6,False,0,0,0,0,0,Clard,Vantonson,True,False
+6989,1,Earth,True,G,1140,right,TRAPPIST-1e,59,False,0,0,0,0,0,Blancy,Fisheparks,True,False
+7000,1,Mars,True,F,1335,right,TRAPPIST-1e,35,False,0,0,0,0,0,Munch,Blane,True,False
+7012,1,Mars,True,F,1456,left,TRAPPIST-1e,26,False,0,0,0,0,0,Park,Stake,True,False
+7035,1,Earth,True,F,1342,right,PSO J318,25,False,0,0,0,0,0,Verly,Workmans,True,False
+7043,1,Earth,True,G,1151,right,PSO J318,50,False,0,0,0,0,0,unknown,unknown,True,False
+7055,1,Mars,True,F,1345,right,TRAPPIST-1e,52,False,0,0,0,500,0,Ungles,Welte,True,False
+7065,1,Earth,True,E,471,right,TRAPPIST-1e,28,False,0,0,0,0,400,Zedares,Maltorted,True,False
+7066,2,Earth,True,G,1157,right,TRAPPIST-1e,49,False,0,0,0,0,0,Leondy,Haynardy,True,False
+7067,2,Earth,True,G,1158,right,TRAPPIST-1e,5,False,0,0,0,0,0,Lis,Wriggins,True,False
+7070,1,Earth,False,A,74,left,Cancri e,57,False,0,1830,0,0,89,Achbah,Forous,True,False
+7076,1,Earth,True,G,1139,left,TRAPPIST-1e,29,False,0,0,0,0,0,Rankie,Lerez,True,False
+7100,1,Earth,False,A,76,left,Cancri e,26,False,0,5283,0,3,36,Ionan,Heracker,True,False
+7100,2,Earth,False,A,76,left,Cancri e,33,True,0,2105,24,0,5879,Thab,Venticable,True,False
+7102,1,Earth,True,E,455,left,TRAPPIST-1e,13,False,0,0,0,0,0,Ainoxa,Wassird,True,False
+7107,1,Earth,True,G,1145,left,PSO J318,48,False,0,0,0,0,0,Jayne,Thorney,True,False
+7115,1,Mars,True,F,1474,left,TRAPPIST-1e,36,False,0,0,0,0,0,Ber,Pepie,True,False
+7124,1,Earth,True,C,229,left,TRAPPIST-1e,15,False,0,0,0,0,0,Eltares,Aillyber,True,False
+7130,2,Earth,True,G,1147,left,PSO J318,0,False,0,0,0,0,0,Anney,Jacostarks,True,False
+7135,1,Earth,True,G,1166,right,TRAPPIST-1e,40,False,0,0,0,0,0,Anie,Gainebergan,True,False
+7135,4,Earth,True,G,1166,right,TRAPPIST-1e,21,False,0,0,0,0,0,Anae,Gainebergan,True,False
+7150,2,Earth,True,G,1151,left,TRAPPIST-1e,22,False,0,0,0,0,0,Fanna,Herreras,True,False
+7163,1,Earth,True,C,231,left,TRAPPIST-1e,47,False,0,0,0,0,0,Tach,Spedlybood,True,False
+7169,1,Earth,True,G,1169,right,TRAPPIST-1e,35,False,0,0,0,0,0,Andary,Alfordonard,True,False
+7178,1,Mars,True,F,1487,left,TRAPPIST-1e,36,False,0,0,0,0,0,Allota,Bush,True,False
+7185,1,Earth,True,D,224,left,TRAPPIST-1e,39,False,0,0,0,0,0,Arix,Baltragnal,True,False
+7195,1,Earth,True,G,1173,right,TRAPPIST-1e,59,False,0,0,0,0,0,Gretty,Hallahaney,True,False
+7198,1,Earth,True,G,1159,left,PSO J318,25,False,0,0,0,0,0,Shally,Diazarez,True,False
+7213,1,Earth,True,G,1162,left,PSO J318,21,False,0,0,0,0,0,Eleaha,Flynney,True,False
+7223,1,Mars,True,F,1390,right,TRAPPIST-1e,19,False,0,0,0,0,0,Whers,Raf,True,False
+7228,1,Earth,True,G,1176,right,TRAPPIST-1e,18,False,0,0,0,0,0,Kirky,Hurchanney,True,False
+7239,1,Earth,True,G,1164,left,TRAPPIST-1e,19,False,0,0,0,0,0,Veremy,Mayods,True,False
+7243,1,Earth,True,G,1180,right,TRAPPIST-1e,2,False,0,0,0,0,0,Essara,Vales,True,False
+7243,2,Earth,True,G,1180,right,TRAPPIST-1e,10,False,0,0,0,0,0,Holey,Vales,True,False
+7243,3,Earth,True,G,1180,right,TRAPPIST-1e,2,False,0,0,0,0,0,Marlly,Vales,True,False
+7243,5,Earth,True,G,1180,right,PSO J318,5,False,0,0,0,0,0,Harlos,Vales,True,False
+7244,1,Earth,True,G,1181,right,PSO J318,29,False,0,0,0,0,0,Hollie,Griffince,True,False
+7248,2,Mars,True,F,1500,left,TRAPPIST-1e,23,False,0,0,0,0,0,Tures,Mité,True,False
+7251,1,Earth,True,G,1165,left,PSO J318,23,False,0,0,0,0,0,Duana,Charryerry,True,False
+7266,2,Earth,True,G,1182,right,TRAPPIST-1e,46,False,0,0,0,0,0,Doray,Lardy,True,False
+7269,2,Earth,True,G,1169,left,TRAPPIST-1e,39,False,0,0,0,0,0,Ellena,Hayder,True,False
+7272,1,Earth,True,G,1172,left,PSO J318,20,False,0,0,0,0,200,Marlly,Dotsonton,True,False
+7282,1,Earth,True,G,1173,left,PSO J318,30,False,0,0,0,0,0,Ale,Blace,True,False
+7287,1,Earth,True,B,274,right,TRAPPIST-1e,29,False,0,0,0,0,0,Aspicah,Drivery,True,False
+7291,1,Earth,True,G,1186,right,TRAPPIST-1e,31,False,0,0,0,0,0,Jodye,Rasmussony,True,False
+7308,1,Earth,True,C,267,right,TRAPPIST-1e,46,False,0,0,0,0,0,Dscha,Fransumint,True,False
+7315,1,Earth,True,G,1175,left,TRAPPIST-1e,19,False,0,0,0,0,0,Briane,Puckley,True,False
+7335,1,Earth,True,G,1177,left,PSO J318,38,False,0,0,0,0,0,Allia,Haydenez,True,False
+7354,1,Earth,True,B,242,left,TRAPPIST-1e,2,False,0,0,0,0,0,Sadirak,Trameterty,True,False
+7354,3,Earth,True,B,242,left,TRAPPIST-1e,18,False,0,0,0,0,200,Cellus,Crakete,True,False
+7354,5,Earth,True,B,242,left,PSO J318,26,False,0,0,0,0,0,Meratzn,Brakeril,True,False
+7363,1,Earth,True,G,1182,left,TRAPPIST-1e,65,False,0,0,0,0,0,unknown,unknown,True,False
+7373,1,Earth,True,B,275,right,TRAPPIST-1e,21,False,0,0,0,0,0,Alyark,Unrent,True,False
+7373,2,Earth,True,B,275,right,TRAPPIST-1e,47,False,0,0,0,0,0,Ruchban,Unrent,True,False
+7380,2,Earth,True,B,276,right,TRAPPIST-1e,16,False,0,0,0,0,0,Yildunt,Witicheal,True,False
+7381,1,Earth,True,G,1187,left,PSO J318,15,False,0,0,0,0,0,Dessie,Watkinsones,True,False
+7382,1,Earth,True,G,1197,right,PSO J318,34,False,0,0,0,0,0,Bel,Mcdon,True,False
+7386,1,Earth,True,G,1189,left,TRAPPIST-1e,34,False,0,0,0,0,0,Valey,Summington,True,False
+7389,1,Mars,True,F,1530,left,TRAPPIST-1e,24,False,0,0,0,0,0,Crus,Anake,True,False
+7404,1,Earth,True,G,1199,right,TRAPPIST-1e,26,False,0,0,0,0,0,Thew,Stanleyd,True,False
+7409,1,Earth,True,B,30,right,TRAPPIST-1e,39,False,791,0,0,94,0,Dord,Solinez,True,False
+7413,1,Earth,True,G,1196,left,TRAPPIST-1e,16,False,0,0,0,0,0,Evendy,Bushafford,True,False
+7413,2,Earth,True,G,1196,left,TRAPPIST-1e,6,False,0,0,0,0,0,Nelle,Bushafford,True,False
+7420,1,Earth,True,F,1536,left,TRAPPIST-1e,24,False,651,0,0,38,0,Oraryn,Georgasey,True,False
+7421,1,Earth,True,G,1198,left,PSO J318,16,False,0,0,0,0,0,Lison,Fowlesterez,True,False
+7426,1,Earth,True,C,274,right,TRAPPIST-1e,25,False,0,0,0,0,0,Azhasim,Swingse,True,False
+7426,2,Earth,True,C,274,right,TRAPPIST-1e,23,False,0,0,0,150,0,Menkark,Swingse,True,False
+7433,1,Earth,True,G,1201,left,PSO J318,37,False,0,0,0,500,0,Clard,Ocherman,True,False
+7441,1,Earth,True,B,245,left,TRAPPIST-1e,21,False,0,0,0,0,0,Phacton,Glousspidy,True,False
+7443,1,Earth,True,G,1207,right,PSO J318,21,False,0,0,0,0,0,Bertle,Woodwinez,True,False
+7470,1,Earth,True,G,1213,right,TRAPPIST-1e,3,False,0,0,0,0,0,Racy,Conleydenan,True,False
+7471,1,Earth,True,G,1208,left,TRAPPIST-1e,2,False,0,0,0,0,0,unknown,unknown,True,False
+7474,1,Earth,True,G,1214,right,TRAPPIST-1e,53,False,0,0,0,0,0,Doray,Ricklaney,True,False
+7482,1,Mars,True,F,1547,left,TRAPPIST-1e,21,False,0,0,0,0,0,Oats,Blie,True,False
+7491,1,Earth,True,G,1212,left,TRAPPIST-1e,14,False,0,0,0,0,0,Bettie,Duffmaney,True,False
+7497,1,Earth,True,G,1218,right,TRAPPIST-1e,23,False,0,0,0,0,0,Berty,Brighttt,True,False
+7526,1,Earth,True,D,225,right,TRAPPIST-1e,29,False,0,0,0,0,0,Antinon,Whifounrew,True,False
+7528,1,Earth,True,G,1220,right,TRAPPIST-1e,58,False,0,0,0,0,0,Herry,Alldson,True,False
+7539,1,Earth,True,C,242,left,TRAPPIST-1e,42,False,0,0,0,0,0,Taram,Stichseary,True,False
+7541,1,Mars,True,F,1441,right,TRAPPIST-1e,30,False,0,0,0,0,0,Bares,Pephe,True,False
+7541,2,Mars,True,F,1441,right,TRAPPIST-1e,11,False,0,0,0,0,0,Prabon,Seche,True,False
+7541,3,Mars,True,E,500,right,TRAPPIST-1e,45,False,0,0,0,0,0,Pebray,Pephe,True,False
+7554,1,Earth,True,G,1226,right,TRAPPIST-1e,48,False,0,0,0,0,0,Sall,Solon,True,False
+7556,1,Earth,True,C,280,right,TRAPPIST-1e,48,False,0,0,0,0,0,Edasim,Mosteraked,True,False
+7557,2,Mars,True,F,1567,left,TRAPPIST-1e,8,False,0,0,0,0,0,Jacats,Gine,True,False
+7557,3,Mars,True,F,1567,left,TRAPPIST-1e,47,False,0,0,0,0,0,Apple,Gine,True,False
+7582,1,Earth,True,G,1218,left,TRAPPIST-1e,3,False,0,0,0,0,0,Gera,Sancasey,True,False
+7582,5,Earth,True,G,1218,left,TRAPPIST-1e,1,False,0,0,0,0,0,Iria,Sancasey,True,False
+7589,1,Earth,True,G,1220,left,PSO J318,18,False,0,0,0,0,0,Sharie,Greenez,True,False
+7597,1,Earth,True,G,1221,left,TRAPPIST-1e,11,False,0,0,0,0,0,Willey,Thony,True,False
+7597,2,Earth,True,G,1221,left,PSO J318,2,False,0,0,0,0,0,unknown,unknown,True,False
+7597,4,Earth,True,G,1221,left,TRAPPIST-1e,32,False,0,0,0,0,0,Fanna,Fisherry,True,False
+7597,5,Earth,True,F,1577,left,PSO J318,15,False,1660,0,1245,0,0,Luisy,Thony,True,False
+7612,2,Earth,True,G,1234,right,TRAPPIST-1e,34,False,0,0,0,0,0,Ritany,Mckins,True,False
+7613,1,Earth,True,B,249,left,TRAPPIST-1e,28,False,0,0,0,0,0,Tauxon,Aindlylid,True,False
+7615,1,Earth,True,G,1222,left,TRAPPIST-1e,31,False,0,0,114,4,901,Rancy,Weberton,True,False
+7619,1,Earth,True,G,1236,right,TRAPPIST-1e,8,False,0,0,0,0,0,Calvia,Reidershley,True,False
+7638,1,Earth,True,G,1225,left,TRAPPIST-1e,18,False,0,0,0,0,0,Kenda,Popelacruz,True,False
+7642,1,Mars,True,F,1587,left,TRAPPIST-1e,30,False,0,0,0,500,0,Quites,Tre,True,False
+7651,1,Mars,True,F,1589,left,TRAPPIST-1e,28,False,0,0,0,0,0,Hoce,Ropie,True,False
+7654,1,Earth,True,C,248,left,TRAPPIST-1e,34,False,0,0,0,0,0,Meropus,Gealter,True,False
+7662,1,Mars,True,F,1590,left,TRAPPIST-1e,32,False,250,0,0,0,0,Allota,Erry,True,False
+7681,1,Mars,True,E,505,right,TRAPPIST-1e,35,False,0,0,0,0,0,Appers,Upead,True,False
+7685,1,Earth,True,G,1249,right,TRAPPIST-1e,34,False,0,0,0,0,0,Ren,Patteraley,True,False
+7718,1,Earth,True,B,297,right,TRAPPIST-1e,18,False,0,0,0,0,0,Tachbah,Hontichre,True,False
+7725,1,Earth,True,D,243,left,TRAPPIST-1e,34,False,0,0,0,0,0,Elebola,Batonsufft,True,False
+7726,1,Earth,True,G,1241,left,TRAPPIST-1e,13,False,0,0,0,0,0,Helly,Belley,True,False
+7737,1,Earth,True,G,1242,left,TRAPPIST-1e,20,False,0,0,0,0,0,Maura,Howence,True,False
+7765,1,Earth,True,G,1255,right,TRAPPIST-1e,1,False,0,0,0,0,0,Alvira,Mejiamsey,True,False
+7765,2,Earth,True,G,1255,right,TRAPPIST-1e,21,False,0,0,0,0,0,Maura,Mejiamsey,True,False
+7765,3,Earth,True,G,1255,right,TRAPPIST-1e,24,False,0,0,0,0,0,Sus,Mejiamsey,True,False
+7772,1,Earth,True,G,1247,left,TRAPPIST-1e,26,False,0,0,0,0,0,Vanley,Josey,True,False
+7779,1,Earth,False,A,95,right,Cancri e,35,False,0,3495,0,53,758,Anchira,Hoorbaring,True,False
+7792,2,Earth,True,B,302,right,TRAPPIST-1e,28,False,0,0,0,0,0,Pulchib,Unsible,True,False
+7807,1,Earth,True,G,1255,left,PSO J318,21,False,0,0,0,0,0,Veremy,Blancoy,True,False
+7811,1,Mars,True,E,512,right,TRAPPIST-1e,47,False,0,0,0,0,0,Skix,Pore,True,False
+7819,1,Earth,True,G,1263,right,TRAPPIST-1e,18,False,0,0,0,0,0,Elody,Estein,True,False
+7827,1,Earth,True,B,304,right,TRAPPIST-1e,58,False,0,0,0,0,0,Acceleb,Mormonized,True,False
+7838,1,Earth,True,C,292,right,TRAPPIST-1e,27,False,0,0,0,0,0,Alyadum,Disheract,True,False
+7857,1,Earth,True,G,1263,left,PSO J318,25,False,0,0,0,0,0,Ricard,Gordond,True,False
+7862,1,Earth,True,G,1266,left,TRAPPIST-1e,16,False,0,0,0,0,0,Milda,Delazarson,True,False
+7880,2,Earth,False,A,84,left,Cancri e,27,False,0,476,21,2,2067,Scelava,Monpreery,True,False
+7887,1,Earth,True,G,1275,left,TRAPPIST-1e,24,False,0,0,0,0,0,Hughy,Morrows,True,False
+7893,1,Earth,True,C,294,right,TRAPPIST-1e,23,False,0,0,0,0,0,Chamak,Polksy,True,False
+7893,5,Earth,True,C,294,right,TRAPPIST-1e,40,False,0,0,0,0,400,Mothab,Polksy,True,False
+7909,2,Earth,True,E,520,right,TRAPPIST-1e,21,False,8,0,0,0,1612,Eilace,Flynnis,True,False
+7911,1,Earth,True,G,1277,right,TRAPPIST-1e,18,False,0,0,0,0,0,Fayey,Holcompton,True,False
+7915,1,Mars,True,E,521,right,TRAPPIST-1e,20,False,0,0,0,0,0,Dilk,Ecart,True,False
+7915,3,Mars,True,E,521,right,TRAPPIST-1e,22,False,0,0,0,0,0,Alspil,Ecart,True,False
+7917,1,Earth,True,G,1280,left,TRAPPIST-1e,16,False,250,0,0,0,0,Guadae,Carterson,True,False
+7927,1,Earth,True,G,1282,left,PSO J318,55,False,0,0,0,0,0,Sall,Bertsontry,True,False
+7927,2,Earth,True,G,1282,left,TRAPPIST-1e,7,False,0,0,0,0,0,Dian,Bertsontry,True,False
+7934,2,Mars,True,F,1519,right,TRAPPIST-1e,21,False,0,0,0,0,0,unknown,unknown,True,False
+7964,1,Mars,True,F,1526,right,TRAPPIST-1e,35,False,0,0,0,0,0,Weaffs,Buche,True,False
+7965,1,Earth,True,G,1287,right,TRAPPIST-1e,21,False,0,0,0,0,0,Jayne,Bradlerson,True,False
+7975,1,Mars,True,F,1649,left,TRAPPIST-1e,69,False,0,0,0,0,0,Stchex,Cone,True,False
+7991,4,Earth,True,C,260,left,TRAPPIST-1e,18,False,0,0,0,150,0,Tarmus,Fembly,True,False
+7997,1,Earth,True,G,1291,right,PSO J318,18,False,0,0,0,0,0,Teryla,Byerry,True,False
+7998,2,Earth,True,C,299,right,PSO J318,39,False,0,0,0,0,0,Alrair,Valousead,True,False
+8009,1,Earth,True,G,1297,left,PSO J318,49,False,0,0,0,0,0,Eriana,Flowensley,True,False
+8011,1,Mars,True,E,529,right,TRAPPIST-1e,46,False,0,0,0,0,0,Man,Sty,True,False
+8039,2,Earth,True,B,264,left,TRAPPIST-1e,18,False,0,0,0,0,0,Sulaos,Invebodene,True,False
+8040,1,Mars,True,E,520,left,TRAPPIST-1e,24,False,0,0,0,0,0,Wat,Shcad,True,False
+8044,1,Earth,True,D,233,right,TRAPPIST-1e,31,False,0,0,0,0,0,Nasliak,Sedece,True,False
+8051,2,Earth,True,G,1301,right,TRAPPIST-1e,36,False,0,0,0,0,0,Gera,Hartley,True,False
+8073,1,Earth,True,G,1303,left,TRAPPIST-1e,24,False,0,0,0,0,0,Eddiey,Davens,True,False
+8090,1,Earth,True,G,1307,left,TRAPPIST-1e,13,False,0,0,0,0,0,Guadae,Dyers,True,False
+8096,1,Mars,True,F,1673,left,TRAPPIST-1e,32,False,0,0,0,500,0,Varz,Docke,True,False
+8101,1,Mars,True,F,1551,right,TRAPPIST-1e,25,False,0,0,0,0,0,Froops,Sione,True,False
+8111,1,Earth,True,G,1309,left,TRAPPIST-1e,43,False,0,0,0,0,0,Nance,Byerton,True,False
+8113,1,Earth,True,G,1307,right,PSO J318,3,False,0,0,0,0,0,Coreen,Castannison,True,False
+8163,1,Mars,True,E,540,right,TRAPPIST-1e,21,False,0,0,0,0,0,Shams,Opité,True,False
+8170,1,Earth,True,B,271,left,TRAPPIST-1e,47,False,0,0,0,0,0,Nuson,Conachets,True,False
+8172,1,Mars,True,F,1562,right,TRAPPIST-1e,24,False,0,0,0,0,0,Tive,Boure,True,False
+8179,1,Earth,True,C,270,left,TRAPPIST-1e,42,False,0,0,0,0,0,Megrezn,Dierome,True,False
+8193,1,Earth,True,G,1327,left,PSO J318,18,False,0,0,0,0,0,Raque,Hutchinton,True,False
+8195,1,Earth,True,C,272,left,TRAPPIST-1e,42,False,250,0,0,0,0,Tauva,Folumorly,True,False
+8196,2,Earth,True,G,1321,right,TRAPPIST-1e,37,False,0,0,0,0,0,Pattin,Bartines,True,False
+8198,1,Earth,True,G,1328,left,TRAPPIST-1e,27,False,0,0,230,0,0,Ericky,Estevesters,True,False
+8201,1,Earth,True,D,255,left,TRAPPIST-1e,26,False,0,0,0,0,0,unknown,unknown,True,False
+8223,1,Earth,True,G,1324,right,TRAPPIST-1e,34,False,0,0,0,0,0,Jillie,Andley,True,False
+8241,1,Earth,True,G,1329,right,TRAPPIST-1e,25,False,0,0,0,0,0,Sanya,Mulley,True,False
+8245,1,Earth,True,G,1338,left,TRAPPIST-1e,0,False,0,0,0,0,0,Millia,Cookentaney,True,False
+8245,2,Earth,True,G,1338,left,TRAPPIST-1e,38,False,0,0,0,0,0,Evan,Cookentaney,True,False
+8246,1,Mars,True,E,528,left,TRAPPIST-1e,30,False,0,0,0,0,0,Walmon,Cle,True,False
+8250,1,Earth,True,G,1340,left,TRAPPIST-1e,21,False,0,0,0,0,0,Gory,Hinetthews,True,False
+8278,1,Earth,True,G,1335,right,TRAPPIST-1e,17,False,0,0,0,0,0,Walley,Weaves,True,False
+8284,1,Earth,True,G,1337,right,PSO J318,33,False,0,0,0,0,0,Natald,Cooperkins,True,False
+8286,1,Earth,True,C,309,right,TRAPPIST-1e,37,False,0,0,0,0,0,Tetra,Unhaftimle,True,False
+8290,1,Mars,True,F,1590,right,TRAPPIST-1e,49,False,0,0,0,0,0,Sumpix,Harte,True,False
+8296,1,Mars,True,F,1706,left,TRAPPIST-1e,33,False,0,0,0,0,0,Clues,Brazo,True,False
+8304,2,Mars,True,F,1707,left,TRAPPIST-1e,1,False,0,0,0,0,0,Bubbix,Flaie,True,False
+8305,1,Earth,True,B,322,right,TRAPPIST-1e,20,False,0,0,0,0,0,Anchib,Fansty,True,False
+8305,3,Earth,True,B,322,right,TRAPPIST-1e,33,False,0,0,0,0,0,Sadirk,Fansty,True,False
+8312,1,Mars,True,F,1597,right,TRAPPIST-1e,22,False,0,0,0,0,200,Cocors,Cola,True,False
+8325,1,Earth,True,G,1342,right,TRAPPIST-1e,27,False,0,0,0,0,0,Ambert,Horners,True,False
+8347,1,Earth,True,G,1360,left,PSO J318,24,False,0,0,0,0,0,Wandy,Buchansen,True,False
+8364,1,Earth,True,G,1362,left,PSO J318,22,False,0,0,0,0,0,Briney,Oneidson,True,False
+8372,1,Earth,True,C,314,right,TRAPPIST-1e,36,False,0,0,0,0,0,Mediton,Spressive,True,False
+8385,1,Mars,True,F,1723,left,TRAPPIST-1e,29,False,0,0,0,0,0,Libers,Queen,True,False
+8389,1,Earth,True,G,1344,right,PSO J318,18,False,0,0,0,0,0,Andyn,Burraymons,True,False
+8400,2,Earth,True,G,1345,right,TRAPPIST-1e,39,False,0,0,0,0,0,Murie,Cartyernan,True,False
+8402,1,Earth,True,C,278,left,TRAPPIST-1e,34,False,0,0,0,0,0,Arkar,Mostedry,True,False
+8402,2,Earth,True,C,278,left,TRAPPIST-1e,25,False,0,0,0,0,0,Ashelik,Mostedry,True,False
+8402,3,Earth,True,C,278,left,TRAPPIST-1e,25,False,0,0,0,0,0,Haldah,Cratrave,True,False
+8408,2,Earth,True,G,1347,right,PSO J318,41,False,0,0,0,0,0,Karene,Pottmanley,True,False
+8413,1,Earth,True,G,1348,right,TRAPPIST-1e,15,False,0,0,0,0,0,Branda,Vanglis,True,False
+8425,2,Earth,True,G,1350,right,TRAPPIST-1e,40,False,0,0,0,0,0,Hilia,Holcompson,True,False
+8434,1,Earth,True,D,261,left,TRAPPIST-1e,41,False,0,0,0,0,0,Azham,Baciffhaut,True,False
+8439,1,Earth,True,G,1378,left,TRAPPIST-1e,19,False,0,0,0,0,0,Ton,Jacobbinson,True,False
+8440,2,Mars,True,F,1731,left,TRAPPIST-1e,3,False,0,0,0,0,0,Frunch,Meate,True,False
+8440,3,Mars,True,F,1731,left,TRAPPIST-1e,19,False,0,0,0,0,0,Eloos,Meate,True,False
+8443,1,Mars,True,B,58,left,TRAPPIST-1e,19,False,0,0,0,0,0,Crans,Ste,True,False
+8445,1,Earth,True,G,1353,right,PSO J318,29,False,0,0,230,0,0,Dennya,Toddleton,True,False
+8445,2,Earth,True,G,1353,right,TRAPPIST-1e,54,False,0,0,0,0,0,Elenna,Nguerrettye,True,False
+8450,3,Mars,True,F,1735,left,TRAPPIST-1e,19,False,0,0,0,0,0,Crunch,Minen,True,False
+8464,2,Mars,True,F,1631,right,TRAPPIST-1e,34,False,0,0,0,0,0,Bleark,Weeke,True,False
+8478,1,Earth,True,G,1357,right,TRAPPIST-1e,3,False,0,0,0,0,0,Bra,Clinantones,True,False
+8484,1,Mars,True,F,1634,right,TRAPPIST-1e,39,False,0,0,0,0,0,Cousk,Welte,True,False
+8485,1,Earth,True,G,1359,right,PSO J318,55,False,0,0,0,0,0,Bertle,Hammons,True,False
+8499,1,Earth,True,G,1362,right,PSO J318,24,False,0,0,0,0,0,Monald,Farmonrada,True,False
+8501,1,Earth,True,G,1363,right,PSO J318,31,False,0,0,0,0,0,Julin,Logannon,True,False
+8510,2,Mars,True,F,1636,right,TRAPPIST-1e,16,False,0,0,0,0,0,Muls,Lake,True,False
+8517,1,Earth,False,A,87,left,Cancri e,25,False,0,257,2,896,119,Alcorab,Embleng,True,False
+8518,1,Earth,True,G,1366,right,TRAPPIST-1e,22,False,0,0,0,0,0,Glenry,Masquez,True,False
+8525,2,Earth,True,C,321,right,TRAPPIST-1e,47,False,0,0,0,0,0,Taurak,Poselfle,True,False
+8531,1,Earth,True,G,1388,left,TRAPPIST-1e,18,False,0,0,0,0,0,Eleaha,Beckeey,True,False
+8533,1,Earth,True,G,1370,right,TRAPPIST-1e,62,False,0,0,0,0,0,Heryle,Beckeey,True,False
+8534,2,Earth,True,G,1371,right,PSO J318,2,False,0,0,0,0,0,Luise,Gallenry,True,False
+8534,3,Earth,True,G,1371,right,TRAPPIST-1e,48,False,0,0,0,0,0,Kene,Gallenry,True,False
+8538,1,Mars,True,F,1644,right,TRAPPIST-1e,28,False,2585,0,4,2,7,Hoow,Bla,True,False
+8543,2,Earth,True,G,1373,right,PSO J318,23,False,0,0,0,0,0,Briney,Juartis,True,False
+8543,7,Earth,True,G,1373,right,PSO J318,37,False,0,0,0,500,0,Kirky,Peterstarks,True,False
+8555,1,Earth,True,G,1390,left,PSO J318,38,False,0,0,0,0,0,Jandy,Garrez,True,False
+8558,1,Earth,True,G,1374,right,TRAPPIST-1e,32,False,0,0,0,0,0,Lestie,Miltongson,True,False
+8565,1,Earth,True,G,1376,right,TRAPPIST-1e,31,False,0,0,0,0,0,Dary,Wolferguson,True,False
+8582,1,Earth,True,G,1380,right,TRAPPIST-1e,19,False,0,0,0,0,0,Nice,Whitez,True,False
+8583,1,Mars,True,F,1762,left,TRAPPIST-1e,27,False,0,0,0,0,0,Jel,Brine,True,False
+8583,2,Mars,True,F,1762,left,TRAPPIST-1e,8,False,0,0,0,0,0,Apples,Brine,True,False
+8600,1,Earth,True,G,1384,right,TRAPPIST-1e,14,False,0,0,0,0,0,Les,Munozanson,True,False
+8601,1,Earth,True,G,1395,left,TRAPPIST-1e,53,False,13,0,47,0,748,Lynnon,Maystuarey,True,False
+8608,1,Earth,True,G,1397,left,PSO J318,13,False,0,0,0,0,0,Brene,Klinson,True,False
+8632,1,Earth,True,G,1401,left,TRAPPIST-1e,16,False,0,0,0,0,0,Luison,Buckeelez,True,False
+8632,2,Earth,True,G,1401,left,TRAPPIST-1e,6,False,0,0,0,0,0,Eulah,Buckeelez,True,False
+8647,1,Mars,True,F,1669,right,TRAPPIST-1e,22,False,0,0,0,0,0,Anakes,Shrie,True,False
+8648,3,Earth,True,G,1403,left,TRAPPIST-1e,23,False,0,0,0,0,0,Kennie,Pughlinsons,True,False
+8665,1,Earth,True,G,1405,left,TRAPPIST-1e,19,False,0,0,0,0,0,Rayne,Leblanchez,True,False
+8666,1,Earth,True,G,1396,right,TRAPPIST-1e,28,False,0,0,230,0,0,Melara,Merce,True,False
+8679,1,Earth,True,G,1407,left,TRAPPIST-1e,22,False,0,0,0,0,0,Kayne,Emenez,True,False
+8689,1,Earth,True,G,1408,left,TRAPPIST-1e,6,False,0,0,0,0,0,Guye,Harrenoldez,True,False
+8692,3,Earth,True,C,286,left,TRAPPIST-1e,24,False,0,0,0,0,0,Algor,Extraly,True,False
+8697,1,Earth,True,G,1401,right,PSO J318,25,False,0,0,0,0,0,Milyla,Fowles,True,False
+8699,1,Earth,True,G,1403,right,PSO J318,52,False,0,0,0,0,0,Dona,Quinnedy,True,False
+8715,1,Earth,True,G,1414,left,TRAPPIST-1e,18,False,0,0,0,0,0,Carley,Logannon,True,False
+8725,1,Earth,True,G,1405,right,TRAPPIST-1e,7,False,0,0,0,0,0,Antony,Barks,True,False
+8726,1,Mars,True,F,1796,left,TRAPPIST-1e,38,False,0,0,0,0,0,Toisps,Bane,True,False
+8737,1,Mars,True,F,1801,left,TRAPPIST-1e,42,False,0,0,0,0,0,Herk,Tre,True,False
+8738,1,Earth,True,G,1418,left,TRAPPIST-1e,35,False,0,0,0,0,0,Tricki,Vincenton,True,False
+8746,1,Earth,True,G,1407,right,PSO J318,19,False,0,0,0,0,0,Krisa,Alldson,True,False
+8747,1,Mars,True,F,1693,right,TRAPPIST-1e,34,False,250,0,0,0,0,Jurs,Pine,True,False
+8775,1,Earth,True,D,275,left,TRAPPIST-1e,40,False,0,0,0,0,0,Raston,Maltorted,True,False
+8778,1,Mars,True,F,1809,left,TRAPPIST-1e,33,False,0,0,0,0,0,Craird,Pane,True,False
+8778,2,Mars,True,F,1809,left,TRAPPIST-1e,4,False,0,0,0,0,0,Ses,Onpie,True,False
+8793,2,Earth,True,C,289,left,PSO J318,25,False,0,0,0,500,0,Dhena,Unreezy,True,False
+8793,5,Earth,True,C,289,left,TRAPPIST-1e,47,False,0,0,230,0,0,Skatz,Unreezy,True,False
+8800,1,Earth,True,G,1423,left,TRAPPIST-1e,3,False,0,0,0,0,0,unknown,unknown,True,False
+8804,1,Mars,True,F,1814,left,TRAPPIST-1e,20,False,0,0,0,0,0,Crowls,Winie,True,False
+8804,2,Mars,True,F,1814,left,TRAPPIST-1e,63,False,0,0,0,0,0,Gra,Sunie,True,False
+8804,3,Mars,True,F,1814,left,TRAPPIST-1e,15,False,0,0,0,0,0,Alk,Pri,True,False
+8814,1,Earth,True,G,1425,left,TRAPPIST-1e,17,False,0,0,0,0,0,Hardy,Simsey,True,False
+8839,2,Earth,False,A,105,right,Cancri e,45,False,17,2914,0,4,1813,Sulaton,Pinoffent,True,False
+8847,1,Earth,True,G,1432,left,TRAPPIST-1e,13,False,0,0,0,0,0,Shalle,Fuentryoung,True,False
+8870,1,Mars,True,F,1718,right,TRAPPIST-1e,13,False,0,0,0,0,0,Spies,Surry,True,False
+8875,3,Earth,True,C,330,right,TRAPPIST-1e,32,False,0,0,0,0,0,Alkeson,Oillicaly,True,False
+8877,1,Earth,True,C,292,left,TRAPPIST-1e,48,False,0,0,0,0,0,Zinoth,Pokerheed,True,False
+8877,2,Earth,True,C,292,left,TRAPPIST-1e,54,False,0,0,0,0,0,Saxinon,Pokerheed,True,False
+8879,1,Earth,True,G,1437,left,TRAPPIST-1e,21,False,0,0,0,0,0,Fayel,Conney,True,False
+8895,1,Earth,True,C,294,left,TRAPPIST-1e,39,False,0,0,0,0,0,Astrak,Hossive,True,False
+8908,1,Earth,True,G,1439,right,PSO J318,19,False,0,0,0,0,0,Luise,Daughessey,True,False
+8912,1,Earth,True,G,1443,left,PSO J318,33,False,0,0,0,0,0,Dord,Pernard,True,False
+8913,1,Earth,True,G,1444,left,TRAPPIST-1e,39,False,0,0,0,0,0,Jodyn,Bellarkerd,True,False
+8913,2,Earth,True,G,1444,left,TRAPPIST-1e,1,False,0,0,0,0,0,Luise,Bellarkerd,True,False
+8916,1,Earth,True,G,1447,left,TRAPPIST-1e,39,False,0,0,0,0,0,Joela,Gordanieves,True,False
+8917,1,Earth,True,G,1440,right,TRAPPIST-1e,26,False,0,0,0,0,0,Kentha,Hendrys,True,False
+8921,1,Earth,True,B,288,left,TRAPPIST-1e,25,False,0,0,0,0,0,Tachird,Prucerod,True,False
+8925,1,Earth,True,C,295,left,TRAPPIST-1e,3,False,0,0,0,0,0,Okulas,Pokematic,True,False
+8925,5,Earth,True,C,295,left,TRAPPIST-1e,36,False,0,0,0,0,0,Winons,Pabler,True,False
+8946,1,Earth,True,C,334,right,PSO J318,33,False,0,0,0,0,0,Alik,Fuelddid,True,False
+8958,1,Earth,True,G,1454,left,TRAPPIST-1e,23,False,0,0,0,0,0,Melice,Cartz,True,False
+8960,3,Earth,True,G,1444,right,TRAPPIST-1e,0,False,0,0,0,0,0,Andan,Solon,True,False
+8980,3,Mars,True,D,273,right,TRAPPIST-1e,23,False,0,0,0,0,0,Tark,Brie,True,False
+8980,6,Mars,True,D,273,right,TRAPPIST-1e,17,False,0,0,0,0,0,Jetax,Brie,True,False
+8980,7,Mars,True,D,273,right,TRAPPIST-1e,20,False,0,0,0,0,0,Rangma,Brie,True,False
+8990,1,Earth,True,G,1457,left,TRAPPIST-1e,55,False,0,0,0,0,0,Allena,Petton,True,False
+8994,2,Mars,True,F,1845,left,TRAPPIST-1e,8,False,0,0,0,0,0,Sceros,Flie,True,False
+9005,1,Earth,True,G,1452,right,TRAPPIST-1e,28,False,0,0,0,0,0,Shard,Langatein,True,False
+9017,1,Earth,True,G,1453,right,TRAPPIST-1e,39,False,0,0,0,0,0,Hardy,Chardst,True,False
+9022,2,Earth,True,F,1748,right,TRAPPIST-1e,24,False,0,0,0,0,0,Willip,Boyerson,True,False
+9022,3,Earth,True,F,1748,right,TRAPPIST-1e,0,False,0,0,0,0,0,Erice,Boyerson,True,False
+9025,2,Earth,True,G,1454,right,TRAPPIST-1e,0,False,0,0,0,0,0,Philia,Whitersone,True,False
+9033,1,Earth,True,G,1456,right,TRAPPIST-1e,40,False,0,0,0,0,0,Brank,Figuez,True,False
+9039,1,Earth,True,G,1468,left,TRAPPIST-1e,23,False,0,0,0,0,0,Nance,Wilkinner,True,False
+9050,1,Earth,True,G,1472,left,TRAPPIST-1e,18,False,0,0,0,0,0,Eulahy,Kimons,True,False
+9062,2,Earth,True,B,74,left,TRAPPIST-1e,65,False,0,0,0,0,0,Lerion,Pughlinsons,True,False
+9065,1,Mars,True,F,1755,right,TRAPPIST-1e,69,False,0,0,0,0,0,Jet,Bart,True,False
+9067,2,Earth,True,G,1459,right,TRAPPIST-1e,9,False,0,0,0,0,0,Dellia,Baxters,True,False
+9083,1,Mars,True,F,1859,left,TRAPPIST-1e,34,False,0,0,0,0,0,Beres,Sto,True,False
+9083,2,Mars,True,E,581,left,TRAPPIST-1e,27,False,0,0,0,0,0,Chones,Sto,True,False
+9086,1,Earth,True,G,1462,right,TRAPPIST-1e,22,False,0,0,0,0,200,Therry,Craftstens,True,False
+9091,1,Mars,True,F,1861,left,TRAPPIST-1e,33,False,0,0,0,0,0,Lers,Ecre,True,False
+9096,1,Earth,True,G,1466,right,TRAPPIST-1e,29,False,0,0,0,0,0,Maya,Sterson,True,False
+9096,2,Earth,True,G,1466,right,PSO J318,24,False,0,0,230,0,0,Wally,Sterson,True,False
+9102,1,Mars,True,F,1760,right,TRAPPIST-1e,33,False,0,0,0,0,0,Guteda,Sacre,True,False
+9105,1,Earth,True,G,1480,left,TRAPPIST-1e,29,False,0,0,0,0,0,Mollie,Brookes,True,False
+9109,1,Earth,True,G,1481,left,TRAPPIST-1e,38,False,0,0,0,0,0,unknown,unknown,True,False
+9113,1,Mars,True,F,1762,right,TRAPPIST-1e,19,False,0,0,0,0,0,Railes,Horte,True,False
+9121,1,Mars,True,F,1869,left,TRAPPIST-1e,20,False,0,0,0,0,0,Row,Bette,True,False
+9123,1,Mars,True,F,1764,right,TRAPPIST-1e,53,False,0,0,0,0,0,Bonutz,Kidne,True,False
+9133,1,Earth,True,G,1486,left,TRAPPIST-1e,27,False,0,0,0,0,0,Stendy,Rutler,True,False
+9147,1,Earth,True,G,1490,left,TRAPPIST-1e,48,False,0,0,0,0,0,Gabrin,Meyersones,True,False
+9154,1,Earth,True,G,1475,right,TRAPPIST-1e,16,False,0,0,0,0,0,Bel,Sweene,True,False
+9155,3,Earth,True,C,304,left,TRAPPIST-1e,26,False,0,0,0,0,0,Alarmus,Ingalt,True,False
+9155,4,Earth,True,C,304,left,TRAPPIST-1e,34,False,0,0,0,0,0,Canons,Ingalt,True,False
+9162,1,Earth,True,D,294,left,TRAPPIST-1e,25,False,0,0,0,0,0,Zinoces,Muspereed,True,False
+9182,1,Earth,True,F,1776,right,TRAPPIST-1e,14,False,0,0,230,1377,29,Garyan,Gainebergan,True,False
+9191,1,Earth,True,G,1482,right,TRAPPIST-1e,41,False,0,0,0,0,0,Vana,Doughan,True,False
+9212,2,Earth,True,G,1495,left,TRAPPIST-1e,40,False,0,0,0,0,0,Violey,Philloway,True,False
+9238,3,Earth,True,G,1501,left,TRAPPIST-1e,16,False,0,0,0,0,0,Herina,Emenez,True,False
+9238,5,Earth,True,B,86,left,TRAPPIST-1e,14,False,0,0,0,0,0,Caseye,Emenez,True,False
+9258,1,Earth,True,E,598,left,TRAPPIST-1e,29,False,0,0,0,0,0,Beidus,Siveduced,True,False
+9263,1,Earth,True,G,1495,right,TRAPPIST-1e,43,False,0,0,0,0,0,Loisey,Heney,True,False
+9266,2,Earth,True,G,1496,right,TRAPPIST-1e,34,False,0,0,0,0,0,Jeron,Peter,True,False
+9277,1,Earth,True,G,1498,right,PSO J318,43,False,0,0,0,0,0,Lilace,Leonzaley,True,False
